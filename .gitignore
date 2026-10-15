@@ -5,3 +5,5 @@
 # Original phone photos (web-sized copies live in images/photos/)
 *.HEIC
 *.heic
+
+**/*.quarto_ipynb
