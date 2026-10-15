@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Adithya Sathyanarayana",
+    "section": "",
+    "text": "I am a fifth-year Ph.D. student in mathematics at Michigan State University, working with Georgios Pappas. I completed a B.S.–M.S. dual degree at IISER Tirupati in 2022, where I worked with D. S. Nagaraj and wrote my master’s thesis on class field theory.\nI am broadly interested in arithmetic algebraic geometry, specifically finite group actions on algebraic varieties and the Galois module structure of their cohomology groups. Recently I have been working on Deligne–Lusztig varieties; see my preprint under preparation and the research page.\nOutside mathematics, I enjoy Carnatic and Hindustani classical music, playing the bansuri (Indian bamboo flute), badminton, literature, and social justice advocacy."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Adithya Sathyanarayana",
+    "section": "Research interests",
+    "text": "Research interests\n\nGalois module structure and Deligne–Lusztig varieties\nComputational aspects of Drinfeld modules\nArithmetic statistics of class groups of number fields"
+  },
+  {
+    "objectID": "index.html#upcoming",
+    "href": "index.html#upcoming",
+    "title": "Adithya Sathyanarayana",
+    "section": "Upcoming",
+    "text": "Upcoming\n\nOct 2026 · Graduate Student Lecture Series (UBDoG), University at Buffalo\nNov 2026 · Group, Lie and Number Theory Seminar, University of Michigan\nNov 21, 2026 · Poster at AGNES, Brown University\n\nSee all talks."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Adithya Sathyanarayana",
+    "section": "Education",
+    "text": "Education\nPh.D. in Mathematics, Michigan State University · expected June 2027\nAdvisor: Georgios Pappas\nB.S.–M.S. Dual Degree, IISER Tirupati, India · 2022\nAdvisor: D. S. Nagaraj · Master’s thesis: Class field theory"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3\n\nGroup, Lie and Number Theory Seminar, University of Michigan · November 2026 (scheduled)\nGraduate Student Lecture Series (UBDoG), University at Buffalo · October 2026 (scheduled)\nAMS Special Session on Springer Fibers, Harmonic Analysis, and Arithmetic, George Washington University · October 4, 2026 (twisted and untwisted cases) · slides\nAutomorphic Forms and Representation Theory Seminar, Purdue University · September 2026\nGraduate Student Conference in Algebra, Geometry, and Topology (GTA Philly), Temple University · May 30, 2026"
+  },
+  {
+    "objectID": "talks.html#invited-talks",
+    "href": "talks.html#invited-talks",
+    "title": "Talks",
+    "section": "",
+    "text": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3\n\nGroup, Lie and Number Theory Seminar, University of Michigan · November 2026 (scheduled)\nGraduate Student Lecture Series (UBDoG), University at Buffalo · October 2026 (scheduled)\nAMS Special Session on Springer Fibers, Harmonic Analysis, and Arithmetic, George Washington University · October 4, 2026 (twisted and untwisted cases) · slides\nAutomorphic Forms and Representation Theory Seminar, Purdue University · September 2026\nGraduate Student Conference in Algebra, Geometry, and Topology (GTA Philly), Temple University · May 30, 2026"
+  },
+  {
+    "objectID": "talks.html#contributed-talks",
+    "href": "talks.html#contributed-talks",
+    "title": "Talks",
+    "section": "Contributed talks",
+    "text": "Contributed talks\nAll at the Student Algebra Seminar, Michigan State University, unless noted.\n\nGalois module theory · Fall 2026\nDeligne–Lusztig varieties · October 2025\nNon-split Cartan subgroups and the associated modular curves · Learning Seminar: The Class Number One Problem d’après Serre · Spring 2025\nReciprocity laws in number theory · 2024"
+  },
+  {
+    "objectID": "talks.html#posters",
+    "href": "talks.html#posters",
+    "title": "Talks",
+    "section": "Posters",
+    "text": "Posters\n\nGalois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3, Algebraic Geometry Northeastern Series (AGNES), Brown University · November 21, 2026 (scheduled)\nGalois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3/\\mathbb{F}_p: untwisted and twisted cases, The Australian Direction, University of Utah · August 11, 2026 (invited poster) · poster"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on problems in arithmetic geometry and representation theory. My current interests are:"
+  },
+  {
+    "objectID": "research.html#dissertation",
+    "href": "research.html#dissertation",
+    "title": "Research",
+    "section": "Dissertation",
+    "text": "Dissertation\nGalois module structure of Deligne–Lusztig varieties (in progress)\nAdvisor: Georgios Pappas, Michigan State University"
+  },
+  {
+    "objectID": "research.html#research-articles",
+    "href": "research.html#research-articles",
+    "title": "Research",
+    "section": "Research articles",
+    "text": "Research articles\n\n\n\n\n\n\nGalois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3\nUnder preparation. The paper computes Lefschetz numbers for the torus action on the coherent cohomology of compactified Deligne–Lusztig surfaces for \\mathrm{GL}_3(\\mathbb{F}_p) and \\mathrm{U}_3(\\mathbb{F}_p).\nSummary · Slides · Poster"
+  },
+  {
+    "objectID": "research.html#masters-thesis",
+    "href": "research.html#masters-thesis",
+    "title": "Research",
+    "section": "Master’s thesis",
+    "text": "Master’s thesis\nClass field theory, IISER Tirupati, 2022. Advisor: D. S. Nagaraj\nThesis (PDF) · Defense slides"
+  },
+  {
+    "objectID": "research.html#projects",
+    "href": "research.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\n\nArithmetic statistics of p-torsion in class groups of quartic number fields\n2026–present\nI’m a participant in Sameera Vemulapalli’s project group at Arithmetic Geometry at UNT 2 (University of North Texas, August 3–7, 2026). We study p-torsion in class groups of quartic number fields that admit an integral basis of the form 1, x, y, xy, in connection with Bhargava’s parametrizations of quartic rings.\nSome Magma code and preliminary analysis are in the project repository.\n\n\nEfficient computation of the Weil pairing for Drinfeld modules\n2026–present\nI’m a participant in Antoine Leudière’s project group at Rethinking Number Theory (online, June 22–July 3, 2026). We’re working toward explicit computation of Weil pairings for Drinfeld modules by implementing pairing algorithms in SageMath and other open-source software.\n\n\nWho Bears the Congestion Price?\nErdős Institute Data Science Boot Camp, Summer 2026\nA data science project completed during the boot camp."
+  },
+  {
+    "objectID": "research.html#seminars",
+    "href": "research.html#seminars",
+    "title": "Research",
+    "section": "Seminars",
+    "text": "Seminars\n\nCo-organizer, Student Algebra Seminar, Michigan State University (Fall 2024, Spring 2025)\nParticipant at MSU: Agentic AI Seminar (Fall 2026), Lean Seminar (Spring and Fall 2026), Étale Cohomology Learning Seminar (2025–26), Class Number One Problem Learning Seminar (Spring 2025), Class Field Theory Learning Seminar (Summer 2023)"
+  },
+  {
+    "objectID": "research/dl-gl3.html",
+    "href": "research/dl-gl3.html",
+    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "section": "",
+    "text": "Status: under preparation. An arXiv link will be added here when the preprint is posted.\nSlides (AMS, Oct 2026) Poster (Utah, Aug 2026) Talks on this work"
+  },
+  {
+    "objectID": "research/dl-gl3.html#summary",
+    "href": "research/dl-gl3.html#summary",
+    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "section": "Summary",
+    "text": "Summary\nDeligne and Lusztig defined a finite étale cover Y(w) \\to X(w) of varieties. It is attached to any connected reductive group \\mathbf{G} defined over a finite field \\mathbb{F}_q, with a Frobenius endomorphism F, and to a Weyl group element w \\in W.\nWe consider the ramified Galois covers \n\\overline{Y(w)} \\longrightarrow \\overline{X(w)}\n of the natural compactifications of these Deligne–Lusztig varieties. Our goal is to calculate the Lefschetz numbers for the action of the covering group on the coherent cohomology of the structure sheaf of \\overline{Y(w)}. The covering group is \\mathbf{T}^{wF}, the \\mathbb{F}_p-points of a torus.\nThese numbers determine the representation of \\mathbf{T}^{wF} on the alternating sum \n\\sum_i (-1)^i \\, H^i\\big(\\overline{Y(w)}, \\mathcal{O}_{\\overline{Y(w)}}\\big).\n The paper gives these Lefschetz numbers explicitly for Deligne–Lusztig surfaces, in the cases \\mathbf{G}^F = \\mathrm{GL}_3(\\mathbb{F}_p) and \\mathbf{G}^F = \\mathrm{U}_3(\\mathbb{F}_p)."
+  },
+  {
+    "objectID": "research/dl-gl3.html#method",
+    "href": "research/dl-gl3.html#method",
+    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "section": "Method",
+    "text": "Method\nThe approach is to work étale-locally to resolve the singularities of \\overline{Y(w)}, and to construct a smooth model carrying an action of \\mathbf{T}^{wF} that extends the action on \\overline{Y(w)}. The local calculations lead to toric geometry. The Hirzebruch–Jung algorithm for minimal resolutions of toric surfaces then supplies what is needed to apply the Lefschetz–Riemann–Roch theorem. In both the split and the unitary case, the resulting Lefschetz numbers are explicit and nonzero."
+  },
+  {
+    "objectID": "research/dl-gl3.html#background-geometric-galois-module-theory",
+    "href": "research/dl-gl3.html#background-geometric-galois-module-theory",
+    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "section": "Background: geometric Galois module theory",
+    "text": "Background: geometric Galois module theory\nGeometric Galois module theory studies how a finite group acting on an algebraic variety or scheme gives module structures on its cohomological and arithmetic invariants. If a finite group G acts on a variety X, then G acts naturally on cohomology groups such as H^i(X, \\mathcal{F}). These groups can then be studied as modules over the group ring k[G], or over the corresponding integral group rings in arithmetic settings.\nA central problem is to determine these module structures, and their equivariant Euler characteristics, for a Galois cover X \\to X/G. This extends classical Galois module theory to higher dimensions. In the classical theory, one studies rings of integers in finite Galois extensions of local or global fields as modules over group rings.\nThe subject draws on arithmetic geometry, algebraic geometry, representation theory, and algebraic K-theory. Ramification and fixed-point data play a central role in the structure of the resulting Galois modules."
+  },
+  {
+    "objectID": "research/dl-gl3.html#talks",
+    "href": "research/dl-gl3.html#talks",
+    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "section": "Talks",
+    "text": "Talks\n\nGroup, Lie and Number Theory Seminar, University of Michigan · November 2026 (scheduled)\nPoster, AGNES, Brown University · November 21, 2026 (scheduled)\nGraduate Student Lecture Series (UBDoG), University at Buffalo · October 2026 (scheduled)\nAMS Special Session on Springer Fibers, Harmonic Analysis, and Arithmetic, George Washington University · October 4, 2026 · slides\nAutomorphic Forms and Representation Theory Seminar, Purdue University · September 2026\nPoster, The Australian Direction, University of Utah · August 11, 2026 · poster\nGTA Philly, Temple University · May 30, 2026"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Michigan State University\n\n\n\nTerm\nCourse\n\n\n\n\nSpring 2025\nMTH 103A: College Algebra I\n\n\nFall 2024\nMTH 234: Multivariable Calculus\n\n\nSummer 2024\nMTH 314: Matrix Algebra with Applications\n\n\nSummer 2023\nMTH 124: Survey of Calculus (online)"
+  },
+  {
+    "objectID": "teaching.html#instructor-of-record",
+    "href": "teaching.html#instructor-of-record",
+    "title": "Teaching",
+    "section": "",
+    "text": "Michigan State University\n\n\n\nTerm\nCourse\n\n\n\n\nSpring 2025\nMTH 103A: College Algebra I\n\n\nFall 2024\nMTH 234: Multivariable Calculus\n\n\nSummer 2024\nMTH 314: Matrix Algebra with Applications\n\n\nSummer 2023\nMTH 124: Survey of Calculus (online)"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "Teaching assistant",
+    "text": "Teaching assistant\n\n\n\n\n\n\n\n\nTerm\nCourse\nInstitution\n\n\n\n\nFall 2026\nMTH 317H: Honors Linear Algebra\nMSU\n\n\nSpring 2026\nMTH 299: Introduction to Proofs\nMSU\n\n\nFall 2025\nMTH 818: Graduate Algebra I (qualifying exam course)\nMSU\n\n\nSpring 2024\nMTH 314: Matrix Algebra with Applications\nMSU\n\n\nFall 2023\nMTH 234: Multivariable Calculus\nMSU\n\n\nMonsoon 2021\nIntroduction to Proofs\nIISER Tirupati"
+  },
+  {
+    "objectID": "teaching.html#teaching-leadership",
+    "href": "teaching.html#teaching-leadership",
+    "title": "Teaching",
+    "section": "Teaching leadership",
+    "text": "Teaching leadership\n\nLead Teaching Assistant (Fall 2024, Spring 2025): observed classes and gave teaching feedback to 8 teaching assistants and 16 undergraduate learning assistants.\nPanelist, orientation for incoming Ph.D. students (Fall 2024)\nTutor and Supervisor, Mathematics Learning Center (6+ semesters)\nCertification in College Teaching, Michigan State University (expected Spring 2027)"
+  },
+  {
+    "objectID": "teaching.html#mentoring",
+    "href": "teaching.html#mentoring",
+    "title": "Teaching",
+    "section": "Mentoring",
+    "text": "Mentoring\nMSU Summer Topology Program (Summer 2026). I mentored two undergraduate projects:\n\nEuler characteristics and the Lefschetz fixed-point theorem in algebraic topology\nThe Gauss–Bonnet theorem and the classification of surfaces"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Short notes on mathematics, computation, and things I’m learning. Posts coming soon.\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]
