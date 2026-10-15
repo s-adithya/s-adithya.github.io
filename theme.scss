@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap');
+
+$font-family-base: "Source Serif 4", Georgia, "Times New Roman", serif;
+$headings-font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+$font-size-base: 1.125rem;
+$line-height-base: 1.65;
+$headings-font-weight: 600;
+
+/*-- scss:rules --*/
+// Interface elements stay in the sans-serif for crispness
+.navbar, .nav, .sidebar, #TOC, #quarto-margin-sidebar, .btn, .callout-title-container,
+.quarto-title-meta, .listing-categories, figcaption, .figure-caption, table, .about-link,
+.quarto-title .subtitle, .page-footer, .dropdown-menu {
+  font-family: $headings-font-family;
+}
+table { font-size: 0.95em; }
+.navbar { font-size: 1rem; }

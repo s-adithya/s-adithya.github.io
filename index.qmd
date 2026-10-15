@@ -18,6 +18,7 @@ about:
       text: CV
       href: files/cv.pdf
 toc: false
+page-layout: full
 ---
 
 I am a fifth-year Ph.D. candidate in mathematics at **Michigan State University**,
