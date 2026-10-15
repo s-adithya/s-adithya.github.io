@@ -1,0 +1,8 @@
+---
+title: "Curriculum Vitae"
+toc: false
+---
+
+[Download PDF](files/cv.pdf){.btn .btn-outline-primary}
+
+<embed src="files/cv.pdf" type="application/pdf" width="100%" height="900px">

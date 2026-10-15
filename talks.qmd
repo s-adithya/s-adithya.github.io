@@ -1,0 +1,33 @@
+---
+title: "Talks"
+---
+
+## Invited talks
+
+**Galois module structure of Deligne–Lusztig varieties for $\mathbf{G} = \mathrm{GL}_3$**
+
+- Group, Lie and Number Theory Seminar, University of Michigan · November 2026 *(scheduled)*
+- Graduate Student Lecture Series (UBDoG), University at Buffalo · October 2026 *(scheduled)*
+- AMS Special Session on Springer Fibers, Harmonic Analysis, and Arithmetic,
+  George Washington University · October 4, 2026 *(twisted and untwisted cases)* · [slides](files/dl-gl3-slides.pdf)
+- Automorphic Forms and Representation Theory Seminar, Purdue University · September 2026
+- Graduate Student Conference in Algebra, Geometry, and Topology (GTA Philly),
+  Temple University · May 30, 2026
+
+## Contributed talks
+
+All at the Student Algebra Seminar, Michigan State University, unless noted.
+
+- *Galois module theory* · Fall 2026
+- *Deligne–Lusztig varieties* · October 2025
+- *Non-split Cartan subgroups and the associated modular curves* · Learning Seminar: The Class
+  Number One Problem d'après Serre · Spring 2025
+- *Reciprocity laws in number theory* · 2024
+
+## Posters
+
+- *Galois module structure of Deligne–Lusztig varieties for $\mathbf{G} = \mathrm{GL}_3$*,
+  Algebraic Geometry Northeastern Series (AGNES), Brown University · November 21, 2026 *(scheduled)*
+- *Galois module structure of Deligne–Lusztig varieties for
+  $\mathbf{G} = \mathrm{GL}_3/\mathbb{F}_p$: untwisted and twisted cases*,
+  The Australian Direction, University of Utah · August 11, 2026 *(invited poster)* · [poster](files/dl-gl3-poster.pdf)

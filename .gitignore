@@ -1,0 +1,7 @@
+/.quarto/
+/_site/
+.DS_Store
+/.claude/
+# Original phone photos (web-sized copies live in images/photos/)
+*.HEIC
+*.heic

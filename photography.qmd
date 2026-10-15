@@ -1,0 +1,17 @@
+---
+title: "Photography"
+subtitle: "Away from the blackboard."
+lightbox: true
+toc: false
+---
+
+<!-- To add a photo: drop it in images/photos/ and add one line below.
+     Format: ![Caption](images/photos/file.jpg){group="photos" fig-alt="Description"} -->
+
+::: {.photo-grid}
+![](images/photos/mountains-clouds.jpg){group="photos" fig-alt="Snow-capped mountain range above a layer of low cloud, with evergreen trees in the foreground"}
+
+![](images/photos/IMG_3550.jpg){group="photos" fig-alt="Looking straight up from a rocky gorge at a sky of rippled clouds, framed by evergreen and autumn trees"}
+
+![](images/photos/IMG_3747.jpg){group="photos" fig-alt="A maple tree turning red and orange against a clear blue sky, beside an empty parking lot"}
+:::

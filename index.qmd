@@ -1,0 +1,60 @@
+---
+title: "Adithya Sathyanarayana"
+subtitle: "Ph.D. Student · Department of Mathematics · Michigan State University"
+image: images/profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:sathyan1@msu.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/s-adithya
+    - text: '<i class="ai ai-orcid"></i> ORCID'
+      href: https://orcid.org/0000-0001-7968-8466
+    - icon: file-earmark-pdf
+      text: CV
+      href: files/cv.pdf
+toc: false
+---
+
+I am a fifth-year Ph.D. student in mathematics at **Michigan State University**,
+working with Georgios Pappas. I completed a B.S.–M.S. dual degree at IISER Tirupati
+in 2022, where I worked with D. S. Nagaraj and wrote my master's thesis on class
+field theory.
+
+I am broadly interested in **arithmetic algebraic geometry**, specifically finite
+group actions on algebraic varieties and the Galois module structure of their
+cohomology groups. Recently I have been working on Deligne–Lusztig varieties; see my
+[preprint under preparation](research/dl-gl3.qmd) and the [research](research.qmd) page.
+
+Outside mathematics, I enjoy Carnatic and Hindustani classical music, playing the
+bansuri (Indian bamboo flute), badminton, literature, and social justice advocacy.
+
+::: {.callout-important appearance="simple" icon=false}
+I am on the academic job market for positions starting **Fall 2027**.
+:::
+
+## Research interests
+
+- Galois module structure and Deligne–Lusztig varieties
+- Computational aspects of Drinfeld modules
+- Arithmetic statistics of class groups of number fields
+
+## Upcoming
+
+- **Oct 2026** · Graduate Student Lecture Series (UBDoG), University at Buffalo
+- **Nov 2026** · Group, Lie and Number Theory Seminar, University of Michigan
+- **Nov 21, 2026** · Poster at AGNES, Brown University
+
+See all [talks](talks.qmd).
+
+## Education
+
+**Ph.D. in Mathematics**, Michigan State University · expected June 2027\
+Advisor: Georgios Pappas
+
+**B.S.–M.S. Dual Degree**, IISER Tirupati, India · 2022\
+Advisor: D. S. Nagaraj · Master's thesis: *Class field theory*

@@ -1,0 +1,64 @@
+---
+title: "Research"
+---
+
+My research focuses on problems in **arithmetic geometry** and **representation
+theory**. My current interests are:
+
+- **Galois module structure:** how Galois groups act on the cohomology of algebraic varieties
+- **Deligne–Lusztig varieties:** their explicit geometry and Galois module structure
+- **Computational aspects of Drinfeld modules**
+- **Arithmetic statistics** of class groups of number fields
+
+## Dissertation
+
+**Galois module structure of Deligne–Lusztig varieties** *(in progress)*\
+Advisor: Georgios Pappas, Michigan State University
+
+## Research articles
+
+::: {.callout-tip appearance="simple" icon=false}
+**[Galois module structure of Deligne–Lusztig varieties for $\mathbf{G} = \mathrm{GL}_3$](research/dl-gl3.qmd)**\
+*Under preparation.* The paper computes Lefschetz numbers for the torus action on the
+coherent cohomology of compactified Deligne–Lusztig surfaces for
+$\mathrm{GL}_3(\mathbb{F}_p)$ and $\mathrm{U}_3(\mathbb{F}_p)$.\
+[Summary](research/dl-gl3.qmd) · [Slides](files/dl-gl3-slides.pdf) · [Poster](files/dl-gl3-poster.pdf)
+:::
+
+## Master's thesis
+
+**Class field theory**, IISER Tirupati, 2022. Advisor: D. S. Nagaraj\
+[Thesis (PDF)](files/ms-thesis-class-field-theory.pdf) · [Defense slides](files/ms-thesis-defense-slides.pdf)
+
+## Projects
+
+### Arithmetic statistics of $p$-torsion in class groups of quartic number fields
+*2026–present*
+
+I'm a participant in Sameera Vemulapalli's project group at *Arithmetic Geometry
+at UNT 2* (University of North Texas, August 3–7, 2026). We study $p$-torsion in
+class groups of quartic number fields that admit an integral basis of the form
+$1, x, y, xy$, in connection with Bhargava's parametrizations of quartic rings.
+
+Some Magma code and preliminary analysis are in the
+[project repository](https://github.com/s-adithya/agunt2_project).
+
+### Efficient computation of the Weil pairing for Drinfeld modules
+*2026–present*
+
+I'm a participant in Antoine Leudière's project group at *Rethinking Number
+Theory* (online, June 22–July 3, 2026). We're working toward explicit computation
+of Weil pairings for Drinfeld modules by implementing pairing algorithms in
+SageMath and other open-source software.
+
+### Who Bears the Congestion Price?
+*Erdős Institute Data Science Boot Camp, Summer 2026*
+
+A data science project completed during the boot camp.
+
+## Seminars
+
+- **Co-organizer**, Student Algebra Seminar, Michigan State University (Fall 2024, Spring 2025)
+- **Participant** at MSU: Agentic AI Seminar (Fall 2026), Lean Seminar (Spring and Fall 2026),
+  Étale Cohomology Learning Seminar (2025–26), Class Number One Problem Learning Seminar
+  (Spring 2025), Class Field Theory Learning Seminar (Summer 2023)
