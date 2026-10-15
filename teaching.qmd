@@ -2,6 +2,12 @@
 title: "Teaching"
 ---
 
+::: {.callout-tip appearance="simple" icon=false}
+**Currently:** Recitation Leader for [MTH 317H: Honors Linear Algebra](teaching/mth317h-fs26.qmd)
+(Fall 2026). Course notes and worksheets are on the course page.\
+See also my [teaching portfolio](teaching/portfolio.qmd).
+:::
+
 ## Instructor of record
 
 Michigan State University
@@ -17,7 +23,7 @@ Michigan State University
 
 | Term | Course | Institution |
 |------|--------|-------------|
-| Fall 2026 | MTH 317H: Honors Linear Algebra | MSU |
+| Fall 2026 | [MTH 317H: Honors Linear Algebra](teaching/mth317h-fs26.qmd) (Recitation Leader) | MSU |
 | Spring 2026 | MTH 299: Introduction to Proofs | MSU |
 | Fall 2025 | MTH 818: Graduate Algebra I (qualifying exam course) | MSU |
 | Spring 2024 | MTH 314: Matrix Algebra with Applications | MSU |

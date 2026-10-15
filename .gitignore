@@ -7,3 +7,9 @@
 *.heic
 
 **/*.quarto_ipynb
+
+# Raw course working folders (only curated PDFs are published)
+/files/Teaching/
+
+# Local drafts, not published
+/drafts/

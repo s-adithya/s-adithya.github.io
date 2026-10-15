@@ -1,0 +1,75 @@
+---
+title: "MTH 317H: Honors Linear Algebra"
+subtitle: "Fall 2026 · Michigan State University · Recitation Leader"
+pagetitle: "MTH 317H Fall 2026"
+toc: true
+---
+
+## About the course
+
+MTH 317H is an advanced introduction to linear algebra and abstract vector spaces,
+with a strong emphasis on mathematical communication. Students learn to construct
+logical arguments and write clear, rigorous proofs.
+
+The course has two lecture sections that meet on Tuesdays and Thursdays and cover the
+linear algebra. I lead the **Monday recitations**. For roughly the first half of the
+semester, recitation is an accelerated introduction to proof writing (essentially the
+content of MTH 299), taught through notes and collaborative worksheets. Later
+recitations practice the linear algebra from lecture. Many recitations end with a
+short quiz.
+
+**Learning objectives**
+
+- Understand and use key concepts of linear algebra: vector spaces, linear
+  transformations, systems of linear equations, determinants, and
+  eigenvalues and eigenvectors.
+- Gain proficiency in constructing and writing proofs.
+
+**Texts (all free online, except the last two)**
+
+- Sheldon Axler, *Linear Algebra Done Right*, 4th ed. (LADR)
+- Sergei Treil, *Linear Algebra Done Wrong* (LADW)
+- Richard Hammack, *Book of Proof*, 3rd ed.
+- Kevin Houston, *How to Think Like a Mathematician*
+- Chartrand, Polimeni and Zhang, *Mathematical Proofs: A Transition to Advanced Mathematics*
+
+::: {.callout-note appearance="simple"}
+Enrolled students: official course information, including the syllabus, office hours,
+homework and grades, is on D2L.
+:::
+
+## Recitation materials
+
+| Week | Date | Topic | Materials |
+|:----:|------|-------|-----------|
+| 1 | Aug 31 | Intro to proofs: sets | [Notes](../files/courses/mth317h-fs26/week01-sets-notes.pdf) |
+| 2 | Sep 7 | *Labor Day, no recitation* | |
+| 3 | Sep 14 | Statements, implications, and negations | [Notes](../files/courses/mth317h-fs26/week03-statements-notes.pdf) |
+| 4 | Sep 21 | Proof by contradiction and contrapositive | [Notes](../files/courses/mth317h-fs26/week04-contradiction-contrapositive-notes.pdf) |
+| 5 | Sep 28 | Contradiction and contrapositive (cont.); introduction to functions | [Notes](../files/courses/mth317h-fs26/week05-contrapositive-contradiction-notes.pdf) · [Worksheet](../files/courses/mth317h-fs26/week05-worksheet.pdf) · [Solutions](../files/courses/mth317h-fs26/week05-worksheet-solutions.pdf) · [Extra practice: injective and surjective](../files/courses/mth317h-fs26/week05-functions-injective-surjective.pdf) ([solutions](../files/courses/mth317h-fs26/week05-functions-injective-surjective-solutions.pdf)) |
+| 6 | Oct 5 | Bijections, inverses, and cardinality | [Notes](../files/courses/mth317h-fs26/week06-bijections-notes.pdf) · [Worksheet](../files/courses/mth317h-fs26/week06-worksheet.pdf) · [Solutions](../files/courses/mth317h-fs26/week06-worksheet-solutions.pdf) |
+| 7 | Oct 12 | Review: proofs about linear maps (existence, uniqueness) | [Packet](../files/courses/mth317h-fs26/week07-linear-maps-packet.pdf) · [Answer key](../files/courses/mth317h-fs26/week07-linear-maps-key.pdf) |
+| 8 | Oct 19 | Exam 1 review | |
+| 9 | Oct 26 | *Fall break* | |
+| 10 | Nov 2 | Proof by induction | |
+| 11 | Nov 9 | Systems of linear equations: practice | |
+| 12 | Nov 16 | Determinants and cofactor expansion: practice | |
+| 13 | Nov 23 | *Exam 2* | |
+| 14 | Nov 30 | Eigenvalues and eigenvectors: practice | |
+| 15 | Dec 7 | Diagonalization: practice | |
+
+: {.striped .hover}
+
+## How recitations work
+
+Each session aims to have students *predict, explore, and sometimes fail productively*
+before they prove, and then consolidate what they found in short notes. A typical
+packet includes:
+
+- a **warm-up** that surfaces the key idea, such as sorting maps by whether they are
+  injective or surjective;
+- **proof frameworks**: the first and last lines of a proof of "injective",
+  "surjective", "not injective", and so on;
+- **investigations** that turn computed examples into conjectures;
+- **"grade the proof"** tasks, where students find and repair common logical errors;
+- an **exit ticket** to check understanding at the end of class.
