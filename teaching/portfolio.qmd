@@ -1,0 +1,60 @@
+---
+title: "Teaching Portfolio"
+toc: true
+---
+
+## Teaching at a glance
+
+- **Instructor of record** for four courses at Michigan State University, from College
+  Algebra to Multivariable Calculus, including an online course.
+- **Teaching assistant and recitation leader** for six courses, including the
+  graduate qualifying-exam course MTH 818 and, currently,
+  [MTH 317H: Honors Linear Algebra](mth317h-fs26.qmd).
+- **Lead Teaching Assistant** (Fall 2024, Spring 2025): observed classes and gave
+  feedback to 8 teaching assistants and 16 undergraduate learning assistants.
+- **Mentor**, MSU Summer Topology Program (Summer 2026): supervised two undergraduate
+  projects in topology.
+
+The full list of courses is on the [Teaching](../teaching.qmd) page.
+
+## Certification in College Teaching {#cct}
+
+I am completing the
+[Certification in College Teaching](https://grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching/certification-in-college-teaching) at Michigan State
+University (expected Spring 2027). The program builds core competencies in college
+teaching through coursework, workshops, and mentored practice.
+
+### 1. Teaching college mathematics
+
+- Coursework: **MTHE 879, Teaching College Mathematics**.
+- Taught four courses as instructor of record, and wrote the recitation notes and
+  worksheets for the proof-writing part of [MTH 317H](mth317h-fs26.qmd).
+
+### 2. Creating effective learning environments
+
+- Active-learning recitations built around collaboration, scaffolded tasks, and
+  frequent low-stakes feedback (worksheets, quizzes, exit tickets).
+- As Lead TA, observed classrooms and helped other instructors strengthen their
+  learning environments.
+- Tutor and supervisor at the Mathematics Learning Center for 6+ semesters.
+
+### 3. Assessing student learning
+
+- Proof-validation tasks and exit tickets give quick, actionable evidence of
+  understanding.
+- Separate student, answer-key, and instructor versions of materials support both
+  practice and feedback.
+
+### 4. Incorporating technology in teaching
+
+- Taught MTH 124: Survey of Calculus fully online (Summer 2023).
+- Course materials are typeset in LaTeX and published openly on this site.
+
+### 5. Understanding the university context
+
+- Completed the Certification in College Teaching Institute (May 2026). Topics included
+  institutional contexts and missions, effective learning environments, assessment of
+  student learning, and technology in teaching.
+- Panelist at orientation for incoming Ph.D. students (Fall 2024).
+- Department of Mathematics representative on the Council of Graduate Students
+  (2025–2026).

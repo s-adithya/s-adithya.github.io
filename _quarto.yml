@@ -13,8 +13,14 @@ website:
         text: Research
       - href: talks.qmd
         text: Talks
-      - href: teaching.qmd
-        text: Teaching
+      - text: Teaching
+        menu:
+          - href: teaching.qmd
+            text: Experience
+          - href: teaching/mth317h-fs26.qmd
+            text: "MTH 317H (Fall 2026)"
+          - href: teaching/portfolio.qmd
+            text: Teaching Portfolio
       - href: notes.qmd
         text: Notes
       - href: photography.qmd
