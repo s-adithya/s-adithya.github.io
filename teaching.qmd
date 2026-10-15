@@ -1,0 +1,40 @@
+---
+title: "Teaching"
+---
+
+## Instructor of record
+
+Michigan State University
+
+| Term | Course |
+|------|--------|
+| Spring 2025 | MTH 103A: College Algebra I |
+| Fall 2024 | MTH 234: Multivariable Calculus |
+| Summer 2024 | MTH 314: Matrix Algebra with Applications |
+| Summer 2023 | MTH 124: Survey of Calculus (online) |
+
+## Teaching assistant
+
+| Term | Course | Institution |
+|------|--------|-------------|
+| Fall 2026 | MTH 317H: Honors Linear Algebra | MSU |
+| Spring 2026 | MTH 299: Introduction to Proofs | MSU |
+| Fall 2025 | MTH 818: Graduate Algebra I (qualifying exam course) | MSU |
+| Spring 2024 | MTH 314: Matrix Algebra with Applications | MSU |
+| Fall 2023 | MTH 234: Multivariable Calculus | MSU |
+| Monsoon 2021 | Introduction to Proofs | IISER Tirupati |
+
+## Teaching leadership
+
+- **Lead Teaching Assistant** (Fall 2024, Spring 2025): observed classes and gave teaching
+  feedback to 8 teaching assistants and 16 undergraduate learning assistants.
+- **Panelist**, orientation for incoming Ph.D. students (Fall 2024)
+- **Tutor and Supervisor**, Mathematics Learning Center (6+ semesters)
+- **Certification in College Teaching**, Michigan State University (expected Spring 2027)
+
+## Mentoring
+
+**MSU Summer Topology Program** (Summer 2026). I mentored two undergraduate projects:
+
+- Euler characteristics and the Lefschetz fixed-point theorem in algebraic topology
+- The Gauss–Bonnet theorem and the classification of surfaces

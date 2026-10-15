@@ -1,0 +1,13 @@
+---
+title: "Notes"
+listing:
+  contents: notes
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+page-layout: full
+title-block-banner: false
+---
+
+Short notes on mathematics, computation, and things I'm learning. Posts coming soon.

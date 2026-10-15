@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Adithya Sathyanarayana"
+  site-url: "https://s-adithya.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: talks.qmd
+        text: Talks
+      - href: teaching.qmd
+        text: Teaching
+      - href: notes.qmd
+        text: Notes
+      - href: photography.qmd
+        text: Photography
+      - href: cv.qmd
+        text: CV
+    right:
+      - text: '<i class="ai ai-orcid"></i>'
+        href: https://orcid.org/0000-0001-7968-8466
+        aria-label: ORCID
+      - icon: github
+        href: https://github.com/s-adithya
+      - icon: envelope
+        href: mailto:sathyan1@msu.edu
+  page-footer:
+    center: "© 2026 Adithya Sathyanarayana · Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    include-in-header:
+      - text: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css">
+    toc: true
+    html-math-method: katex
+    code-copy: true
+    highlight-style: github
+    smooth-scroll: true
+
+execute:
+  freeze: auto
