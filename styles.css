@@ -16,3 +16,22 @@
   border-radius: 6px;
 }
 .photo-grid figure, .photo-grid .quarto-figure { margin: 0; }
+
+/* Education entries with institution logos */
+.edu-entry {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+.edu-entry > p { margin: 0; flex: 0 0 auto; }
+.edu-logo {
+  width: 96px;
+  height: 72px;
+  object-fit: contain;
+  background: #fff;
+  border-radius: 8px;
+  padding: 4px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.08);
+}
+.edu-text p { margin: 0; }

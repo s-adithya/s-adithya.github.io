@@ -1,6 +1,6 @@
 ---
 title: "Adithya Sathyanarayana"
-subtitle: "Ph.D. Student · Department of Mathematics · Michigan State University"
+subtitle: "Ph.D. Candidate · Department of Mathematics · Michigan State University"
 image: images/profile.jpg
 about:
   template: trestles
@@ -20,14 +20,15 @@ about:
 toc: false
 ---
 
-I am a fifth-year Ph.D. student in mathematics at **Michigan State University**,
-working with Georgios Pappas. I completed a B.S.–M.S. dual degree at IISER Tirupati
-in 2022, where I worked with D. S. Nagaraj and wrote my master's thesis on class
-field theory.
+I am a fifth-year Ph.D. candidate in mathematics at **Michigan State University**,
+working with [Prof. Georgios Pappas](https://sites.google.com/site/georgepappashomepage/home). I completed a B.S.–M.S. dual degree in mathematics at
+IISER Tirupati in 2022, where I worked with [Prof. D. S. Nagaraj](https://www.imsc.res.in/~dsn/) and wrote my master's
+thesis on class field theory.
 
-I am broadly interested in **arithmetic algebraic geometry**, specifically finite
-group actions on algebraic varieties and the Galois module structure of their
-cohomology groups. Recently I have been working on Deligne–Lusztig varieties; see my
+I am broadly interested in **arithmetic geometry** and **representation theory**,
+specifically finite group actions on algebraic varieties and the Galois module
+structure of their cohomology groups. Recently I have been working on Deligne–Lusztig
+varieties; see my
 [preprint under preparation](research/dl-gl3.qmd) and the [research](research.qmd) page.
 
 Outside mathematics, I enjoy Carnatic and Hindustani classical music, playing the
@@ -43,6 +44,12 @@ I am on the academic job market for positions starting **Fall 2027**.
 - Computational aspects of Drinfeld modules
 - Arithmetic statistics of class groups of number fields
 
+## Currently teaching
+
+**Fall 2026** · Recitation Leader for
+[MTH 317H: Honors Linear Algebra](teaching/mth317h-fs26.qmd) at Michigan State University.
+Course notes and worksheets are on the [course page](teaching/mth317h-fs26.qmd).
+
 ## Upcoming
 
 - **Oct 2026** · Graduate Student Lecture Series (UBDoG), University at Buffalo
@@ -53,8 +60,20 @@ See all [talks](talks.qmd).
 
 ## Education
 
-**Ph.D. in Mathematics**, Michigan State University · expected June 2027\
-Advisor: Georgios Pappas
+::: {.edu-entry}
+![](images/logos/msu.png){.edu-logo fig-alt="Michigan State University logo"}
 
-**B.S.–M.S. Dual Degree**, IISER Tirupati, India · 2022\
-Advisor: D. S. Nagaraj · Master's thesis: *Class field theory*
+::: {.edu-text}
+**Ph.D. in Mathematics**, Michigan State University · expected June 2027\
+Advisor: [Prof. Georgios Pappas](https://sites.google.com/site/georgepappashomepage/home)
+:::
+:::
+
+::: {.edu-entry}
+![](images/logos/iiser-tirupati.png){.edu-logo fig-alt="IISER Tirupati logo"}
+
+::: {.edu-text}
+**B.S.–M.S. Dual Degree in Mathematics**, IISER Tirupati, India · 2022\
+Advisor: [Prof. D. S. Nagaraj](https://www.imsc.res.in/~dsn/) · Master's thesis: *Class field theory*
+:::
+:::
