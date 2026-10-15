@@ -1,87 +1,24 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "objectID": "teaching/portfolio.html",
+    "href": "teaching/portfolio.html",
+    "title": "Teaching Portfolio",
     "section": "",
-    "text": "Download PDF"
+    "text": "Instructor of record for four courses at Michigan State University, from College Algebra to Multivariable Calculus, including an online course.\nTeaching assistant and recitation leader for six courses, including the graduate qualifying-exam course MTH 818 and, currently, MTH 317H: Honors Linear Algebra.\nLead Teaching Assistant (Fall 2024, Spring 2025): observed classes and gave feedback to 8 teaching assistants and 16 undergraduate learning assistants.\nMentor, MSU Summer Topology Program (Summer 2026): supervised two undergraduate projects in topology.\n\nThe full list of courses is on the Teaching page."
   },
   {
-    "objectID": "teaching/mth317h-fs26.html",
-    "href": "teaching/mth317h-fs26.html",
-    "title": "MTH 317H: Honors Linear Algebra",
+    "objectID": "teaching/portfolio.html#teaching-at-a-glance",
+    "href": "teaching/portfolio.html#teaching-at-a-glance",
+    "title": "Teaching Portfolio",
     "section": "",
-    "text": "MTH 317H is an advanced introduction to linear algebra and abstract vector spaces, with a strong emphasis on mathematical communication. Students learn to construct logical arguments and write clear, rigorous proofs.\nThe course has two lecture sections that meet on Tuesdays and Thursdays and cover the linear algebra. I lead the Monday recitations. For roughly the first half of the semester, recitation is an accelerated introduction to proof writing (essentially the content of MTH 299), taught through notes and collaborative worksheets. Later recitations practice the linear algebra from lecture. Many recitations start with a short quiz.\nLearning objectives\n\nUnderstand and use key concepts of linear algebra: vector spaces, linear transformations, systems of linear equations, determinants, and eigenvalues and eigenvectors.\nGain proficiency in constructing and writing proofs.\n\nTexts (all free online, except the last two)\n\nSheldon Axler, Linear Algebra Done Right, 4th ed. (LADR)\nSergei Treil, Linear Algebra Done Wrong (LADW)\nRichard Hammack, Book of Proof, 3rd ed.\nKevin Houston, How to Think Like a Mathematician\nChartrand, Polimeni and Zhang, Mathematical Proofs: A Transition to Advanced Mathematics"
+    "text": "Instructor of record for four courses at Michigan State University, from College Algebra to Multivariable Calculus, including an online course.\nTeaching assistant and recitation leader for six courses, including the graduate qualifying-exam course MTH 818 and, currently, MTH 317H: Honors Linear Algebra.\nLead Teaching Assistant (Fall 2024, Spring 2025): observed classes and gave feedback to 8 teaching assistants and 16 undergraduate learning assistants.\nMentor, MSU Summer Topology Program (Summer 2026): supervised two undergraduate projects in topology.\n\nThe full list of courses is on the Teaching page."
   },
   {
-    "objectID": "teaching/mth317h-fs26.html#about-the-course",
-    "href": "teaching/mth317h-fs26.html#about-the-course",
-    "title": "MTH 317H: Honors Linear Algebra",
-    "section": "",
-    "text": "MTH 317H is an advanced introduction to linear algebra and abstract vector spaces, with a strong emphasis on mathematical communication. Students learn to construct logical arguments and write clear, rigorous proofs.\nThe course has two lecture sections that meet on Tuesdays and Thursdays and cover the linear algebra. I lead the Monday recitations. For roughly the first half of the semester, recitation is an accelerated introduction to proof writing (essentially the content of MTH 299), taught through notes and collaborative worksheets. Later recitations practice the linear algebra from lecture. Many recitations start with a short quiz.\nLearning objectives\n\nUnderstand and use key concepts of linear algebra: vector spaces, linear transformations, systems of linear equations, determinants, and eigenvalues and eigenvectors.\nGain proficiency in constructing and writing proofs.\n\nTexts (all free online, except the last two)\n\nSheldon Axler, Linear Algebra Done Right, 4th ed. (LADR)\nSergei Treil, Linear Algebra Done Wrong (LADW)\nRichard Hammack, Book of Proof, 3rd ed.\nKevin Houston, How to Think Like a Mathematician\nChartrand, Polimeni and Zhang, Mathematical Proofs: A Transition to Advanced Mathematics"
-  },
-  {
-    "objectID": "teaching/mth317h-fs26.html#office-hours",
-    "href": "teaching/mth317h-fs26.html#office-hours",
-    "title": "MTH 317H: Honors Linear Algebra",
-    "section": "Office hours",
-    "text": "Office hours\n\nOffice hours / help room: Wednesdays, 10am–12pm, Wells Hall D101K\nZoom: additional hours can be scheduled by appointment. Email me at sathyan1@msu.edu.\n\n\n\n\n\n\n\nEnrolled students: official course information, including the syllabus, homework, and grades, is on D2L."
-  },
-  {
-    "objectID": "teaching/mth317h-fs26.html#recitation-materials",
-    "href": "teaching/mth317h-fs26.html#recitation-materials",
-    "title": "MTH 317H: Honors Linear Algebra",
-    "section": "Recitation materials",
-    "text": "Recitation materials\n\n\n\nWeek\nDate\nTopic\nMaterials\n\n\n\n\n1\nAug 31\nIntro to proofs: sets\nNotes\n\n\n2\nSep 7\nLabor Day, no recitation\n\n\n\n3\nSep 14\nStatements, implications, and negations\nNotes\n\n\n4\nSep 21\nProof by contradiction and contrapositive\nNotes\n\n\n5\nSep 28\nContradiction and contrapositive (cont.); introduction to functions\nNotes · Worksheet · Solutions · Extra practice: injective and surjective (solutions)\n\n\n6\nOct 5\nBijections, inverses, and cardinality\nNotes · Worksheet · Solutions\n\n\n7\nOct 12\nReview: proofs about linear maps (existence, uniqueness)\nPacket · Answer key\n\n\n8\nOct 19\nExam 1 review\n\n\n\n9\nOct 26\nFall break\n\n\n\n10\nNov 2\nProof by induction\n\n\n\n11\nNov 9\nSystems of linear equations: practice\n\n\n\n12\nNov 16\nDeterminants and cofactor expansion: practice\n\n\n\n13\nNov 23\nExam 2\n\n\n\n14\nNov 30\nEigenvalues and eigenvectors: practice\n\n\n\n15\nDec 7\nDiagonalization: practice"
-  },
-  {
-    "objectID": "teaching/mth317h-fs26.html#how-recitations-work",
-    "href": "teaching/mth317h-fs26.html#how-recitations-work",
-    "title": "MTH 317H: Honors Linear Algebra",
-    "section": "How recitations work",
-    "text": "How recitations work\nEach session aims to have students predict, explore, and sometimes fail productively before they prove, and then consolidate what they found in short notes. A typical packet includes:\n\na warm-up that surfaces the key idea, such as sorting maps by whether they are injective or surjective;\nproof frameworks: the first and last lines of a proof of “injective”, “surjective”, “not injective”, and so on;\ninvestigations that turn computed examples into conjectures;\n“grade the proof” tasks, where students find and repair common logical errors;\nan exit ticket to check understanding at the end of class."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Adithya Sathyanarayana",
-    "section": "",
-    "text": "I am a fifth-year Ph.D. candidate in mathematics at Michigan State University, working with Prof. Georgios Pappas. I completed a B.S.–M.S. dual degree in mathematics at IISER Tirupati in 2022, where I worked with Prof. D. S. Nagaraj and wrote my master’s thesis on class field theory.\nI am broadly interested in arithmetic geometry and representation theory, specifically finite group actions on algebraic varieties and the Galois module structure of their cohomology groups. Recently I have been working on Deligne–Lusztig varieties; see my preprint under preparation and the research page.\nOutside mathematics, I enjoy Carnatic and Hindustani classical music, playing the bansuri (Indian bamboo flute), badminton, literature, and social justice advocacy."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Adithya Sathyanarayana",
-    "section": "Research interests",
-    "text": "Research interests\n\nGalois module structure and Deligne–Lusztig varieties\nComputational aspects of Drinfeld modules\nArithmetic statistics of class groups of number fields"
-  },
-  {
-    "objectID": "index.html#currently-teaching",
-    "href": "index.html#currently-teaching",
-    "title": "Adithya Sathyanarayana",
-    "section": "Currently teaching",
-    "text": "Currently teaching\nFall 2026 · Recitation Leader for MTH 317H: Honors Linear Algebra at Michigan State University. Course notes and worksheets are on the course page."
-  },
-  {
-    "objectID": "index.html#upcoming",
-    "href": "index.html#upcoming",
-    "title": "Adithya Sathyanarayana",
-    "section": "Upcoming",
-    "text": "Upcoming\n\nOct 2026 · Graduate Student Lecture Series (UBDoG), University at Buffalo\nNov 2026 · Group, Lie and Number Theory Seminar, University of Michigan\nNov 21, 2026 · Poster at AGNES, Brown University\n\nSee all talks."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Adithya Sathyanarayana",
-    "section": "Education",
-    "text": "Education\n\n\n\nPh.D. in Mathematics, Michigan State University · expected June 2027\nAdvisor: Prof. Georgios Pappas\n\n\n\n\n\nB.S.–M.S. Dual Degree in Mathematics, IISER Tirupati, India · 2022\nAdvisor: Prof. D. S. Nagaraj · Master’s thesis: Class field theory"
-  },
-  {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
-    "section": "",
-    "text": "Short notes on mathematics, computation, and things I’m learning. Posts coming soon.\n\n\n\n\n\n\n\n\nNo matching items"
+    "objectID": "teaching/portfolio.html#cct",
+    "href": "teaching/portfolio.html#cct",
+    "title": "Teaching Portfolio",
+    "section": "Certification in College Teaching",
+    "text": "Certification in College Teaching\nI am completing the Certification in College Teaching at Michigan State University (expected Spring 2027). The program builds core competencies in college teaching through coursework, workshops, and mentored practice.\n\n1. Teaching college mathematics\n\nCoursework: MTHE 879, Teaching College Mathematics.\nTaught four courses as instructor of record, and wrote the recitation notes and worksheets for the proof-writing part of MTH 317H.\n\n\n\n2. Creating effective learning environments\n\nActive-learning recitations built around collaboration, scaffolded tasks, and frequent low-stakes feedback (worksheets, quizzes, exit tickets).\nAs Lead TA, observed classrooms and helped other instructors strengthen their learning environments.\nTutor and supervisor at the Mathematics Learning Center for 6+ semesters.\n\n\n\n3. Assessing student learning\n\nProof-validation tasks and exit tickets give quick, actionable evidence of understanding.\nSeparate student, answer-key, and instructor versions of materials support both practice and feedback.\n\n\n\n4. Incorporating technology in teaching\n\nTaught MTH 124: Survey of Calculus fully online (Summer 2023).\nCourse materials are typeset in LaTeX and published openly on this site.\n\n\n\n5. Understanding the university context\n\nCompleted the Certification in College Teaching Institute (May 2026). Topics included institutional contexts and missions, effective learning environments, assessment of student learning, and technology in teaching.\nPanelist at orientation for incoming Ph.D. students (Fall 2024).\nDepartment of Mathematics representative on the Council of Graduate Students (2025–2026)."
   },
   {
     "objectID": "teaching.html",
@@ -154,6 +91,55 @@
     "text": "Talks\n\nGroup, Lie and Number Theory Seminar, University of Michigan · November 2026 (scheduled)\nPoster, AGNES, Brown University · November 21, 2026 (scheduled)\nGraduate Student Lecture Series (UBDoG), University at Buffalo · October 2026 (scheduled)\nAMS Special Session on Springer Fibers, Harmonic Analysis, and Arithmetic, George Washington University · October 4, 2026 · slides\nAutomorphic Forms and Representation Theory Seminar, Purdue University · September 2026\nPoster, The Australian Direction, University of Utah · August 11, 2026 · poster\nGTA Philly, Temple University · May 30, 2026"
   },
   {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Short notes on mathematics, computation, and things I’m learning. Posts coming soon.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Adithya Sathyanarayana",
+    "section": "",
+    "text": "I am a fifth-year Ph.D. candidate in mathematics at Michigan State University, working with Prof. Georgios Pappas. I completed a B.S.–M.S. dual degree in mathematics at IISER Tirupati in 2022, where I worked with Prof. D. S. Nagaraj and wrote my master’s thesis on class field theory.\nI am broadly interested in arithmetic geometry and representation theory, specifically finite group actions on algebraic varieties and the Galois module structure of their cohomology groups. Recently I have been working on Deligne–Lusztig varieties; see my preprint under preparation and the research page.\nOutside mathematics, I enjoy Carnatic and Hindustani classical music, playing the bansuri (Indian bamboo flute), badminton, literature, and social justice advocacy."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Adithya Sathyanarayana",
+    "section": "Research interests",
+    "text": "Research interests\n\nGalois module structure and Deligne–Lusztig varieties\nComputational aspects of Drinfeld modules\nArithmetic statistics of class groups of number fields"
+  },
+  {
+    "objectID": "index.html#currently-teaching",
+    "href": "index.html#currently-teaching",
+    "title": "Adithya Sathyanarayana",
+    "section": "Currently teaching",
+    "text": "Currently teaching\nFall 2026 · Recitation Leader for MTH 317H: Honors Linear Algebra at Michigan State University. Course notes and worksheets are on the course page."
+  },
+  {
+    "objectID": "index.html#upcoming",
+    "href": "index.html#upcoming",
+    "title": "Adithya Sathyanarayana",
+    "section": "Upcoming",
+    "text": "Upcoming\n\nOct 2026 · Graduate Student Lecture Series (UBDoG), University at Buffalo\nNov 2026 · Group, Lie and Number Theory Seminar, University of Michigan\nNov 21, 2026 · Poster at AGNES, Brown University\n\nSee all talks."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Adithya Sathyanarayana",
+    "section": "Education",
+    "text": "Education\n\n\n\nPh.D. in Mathematics, Michigan State University · expected June 2027\nAdvisor: Prof. Georgios Pappas\n\n\n\n\n\nB.S.–M.S. Dual Degree in Mathematics, IISER Tirupati, India · 2022\nAdvisor: Prof. D. S. Nagaraj · Master’s thesis: Class field theory"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -224,38 +210,38 @@
     "text": "Posters\n\nGalois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3, Algebraic Geometry Northeastern Series (AGNES), Brown University · November 21, 2026 (scheduled)\nGalois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3/\\mathbb{F}_p: untwisted and twisted cases, The Australian Direction, University of Utah · August 11, 2026 (invited poster) · poster"
   },
   {
-    "objectID": "drafts/teaching-philosophy.html",
-    "href": "drafts/teaching-philosophy.html",
-    "title": "Draft: teaching philosophy section for teaching/portfolio.qmd",
+    "objectID": "teaching/mth317h-fs26.html",
+    "href": "teaching/mth317h-fs26.html",
+    "title": "MTH 317H: Honors Linear Algebra",
     "section": "",
-    "text": "Paste this above ‘## Teaching at a glance’ once files/teaching-statement.pdf exists.\n\n\nI want students to experience mathematics as something they do, not only something they watch. In my classrooms, students predict, explore, and sometimes fail productively before they are asked to prove. Collaborative worksheets, explicit proof frameworks, and “grade the proof” exercises help make the habits of rigorous mathematical writing visible and learnable. Short exit tickets let me check understanding and adjust the next session.\nIf you are curious how these ideas shape my teaching, you can read my full teaching statement."
+    "text": "MTH 317H is an advanced introduction to linear algebra and abstract vector spaces, with a strong emphasis on mathematical communication. Students learn to construct logical arguments and write clear, rigorous proofs.\nThe course has two lecture sections that meet on Tuesdays and Thursdays and cover the linear algebra. I lead the Monday recitations. For roughly the first half of the semester, recitation is an accelerated introduction to proof writing (essentially the content of MTH 299), taught through notes and collaborative worksheets. Later recitations practice the linear algebra from lecture. Many recitations start with a short quiz.\nLearning objectives\n\nUnderstand and use key concepts of linear algebra: vector spaces, linear transformations, systems of linear equations, determinants, and eigenvalues and eigenvectors.\nGain proficiency in constructing and writing proofs.\n\nTexts (all free online, except the last two)\n\nSheldon Axler, Linear Algebra Done Right, 4th ed. (LADR)\nSergei Treil, Linear Algebra Done Wrong (LADW)\nRichard Hammack, Book of Proof, 3rd ed.\nKevin Houston, How to Think Like a Mathematician\nChartrand, Polimeni and Zhang, Mathematical Proofs: A Transition to Advanced Mathematics"
   },
   {
-    "objectID": "drafts/teaching-philosophy.html#teaching-philosophy",
-    "href": "drafts/teaching-philosophy.html#teaching-philosophy",
-    "title": "Draft: teaching philosophy section for teaching/portfolio.qmd",
+    "objectID": "teaching/mth317h-fs26.html#about-the-course",
+    "href": "teaching/mth317h-fs26.html#about-the-course",
+    "title": "MTH 317H: Honors Linear Algebra",
     "section": "",
-    "text": "I want students to experience mathematics as something they do, not only something they watch. In my classrooms, students predict, explore, and sometimes fail productively before they are asked to prove. Collaborative worksheets, explicit proof frameworks, and “grade the proof” exercises help make the habits of rigorous mathematical writing visible and learnable. Short exit tickets let me check understanding and adjust the next session.\nIf you are curious how these ideas shape my teaching, you can read my full teaching statement."
+    "text": "MTH 317H is an advanced introduction to linear algebra and abstract vector spaces, with a strong emphasis on mathematical communication. Students learn to construct logical arguments and write clear, rigorous proofs.\nThe course has two lecture sections that meet on Tuesdays and Thursdays and cover the linear algebra. I lead the Monday recitations. For roughly the first half of the semester, recitation is an accelerated introduction to proof writing (essentially the content of MTH 299), taught through notes and collaborative worksheets. Later recitations practice the linear algebra from lecture. Many recitations start with a short quiz.\nLearning objectives\n\nUnderstand and use key concepts of linear algebra: vector spaces, linear transformations, systems of linear equations, determinants, and eigenvalues and eigenvectors.\nGain proficiency in constructing and writing proofs.\n\nTexts (all free online, except the last two)\n\nSheldon Axler, Linear Algebra Done Right, 4th ed. (LADR)\nSergei Treil, Linear Algebra Done Wrong (LADW)\nRichard Hammack, Book of Proof, 3rd ed.\nKevin Houston, How to Think Like a Mathematician\nChartrand, Polimeni and Zhang, Mathematical Proofs: A Transition to Advanced Mathematics"
   },
   {
-    "objectID": "teaching/portfolio.html",
-    "href": "teaching/portfolio.html",
-    "title": "Teaching Portfolio",
-    "section": "",
-    "text": "Instructor of record for four courses at Michigan State University, from College Algebra to Multivariable Calculus, including an online course.\nTeaching assistant and recitation leader for six courses, including the graduate qualifying-exam course MTH 818 and, currently, MTH 317H: Honors Linear Algebra.\nLead Teaching Assistant (Fall 2024, Spring 2025): observed classes and gave feedback to 8 teaching assistants and 16 undergraduate learning assistants.\nMentor, MSU Summer Topology Program (Summer 2026): supervised two undergraduate projects in topology.\n\nThe full list of courses is on the Teaching page."
+    "objectID": "teaching/mth317h-fs26.html#office-hours",
+    "href": "teaching/mth317h-fs26.html#office-hours",
+    "title": "MTH 317H: Honors Linear Algebra",
+    "section": "Office hours",
+    "text": "Office hours\n\nOffice hours / help room: Wednesdays, 10am–12pm, Wells Hall D101K\nZoom: additional hours can be scheduled by appointment. Email me at sathyan1@msu.edu.\n\n\n\n\n\n\n\nEnrolled students: official course information, including the syllabus, homework, and grades, is on D2L."
   },
   {
-    "objectID": "teaching/portfolio.html#teaching-at-a-glance",
-    "href": "teaching/portfolio.html#teaching-at-a-glance",
-    "title": "Teaching Portfolio",
-    "section": "",
-    "text": "Instructor of record for four courses at Michigan State University, from College Algebra to Multivariable Calculus, including an online course.\nTeaching assistant and recitation leader for six courses, including the graduate qualifying-exam course MTH 818 and, currently, MTH 317H: Honors Linear Algebra.\nLead Teaching Assistant (Fall 2024, Spring 2025): observed classes and gave feedback to 8 teaching assistants and 16 undergraduate learning assistants.\nMentor, MSU Summer Topology Program (Summer 2026): supervised two undergraduate projects in topology.\n\nThe full list of courses is on the Teaching page."
+    "objectID": "teaching/mth317h-fs26.html#recitation-materials",
+    "href": "teaching/mth317h-fs26.html#recitation-materials",
+    "title": "MTH 317H: Honors Linear Algebra",
+    "section": "Recitation materials",
+    "text": "Recitation materials\n\n\n\nWeek\nDate\nTopic\nMaterials\n\n\n\n\n1\nAug 31\nIntro to proofs: sets\nNotes\n\n\n2\nSep 7\nLabor Day, no recitation\n\n\n\n3\nSep 14\nStatements, implications, and negations\nNotes\n\n\n4\nSep 21\nProof by contradiction and contrapositive\nNotes\n\n\n5\nSep 28\nContradiction and contrapositive (cont.); introduction to functions\nNotes · Worksheet · Solutions · Extra practice: injective and surjective (solutions)\n\n\n6\nOct 5\nBijections, inverses, and cardinality\nNotes · Worksheet · Solutions\n\n\n7\nOct 12\nReview: proofs about linear maps (existence, uniqueness)\nPacket · Answer key\n\n\n8\nOct 19\nExam 1 review\n\n\n\n9\nOct 26\nFall break\n\n\n\n10\nNov 2\nProof by induction\n\n\n\n11\nNov 9\nSystems of linear equations: practice\n\n\n\n12\nNov 16\nDeterminants and cofactor expansion: practice\n\n\n\n13\nNov 23\nExam 2\n\n\n\n14\nNov 30\nEigenvalues and eigenvectors: practice\n\n\n\n15\nDec 7\nDiagonalization: practice"
   },
   {
-    "objectID": "teaching/portfolio.html#cct",
-    "href": "teaching/portfolio.html#cct",
-    "title": "Teaching Portfolio",
-    "section": "Certification in College Teaching",
-    "text": "Certification in College Teaching\nI am completing the Certification in College Teaching at Michigan State University (expected Spring 2027). The program builds core competencies in college teaching through coursework, workshops, and mentored practice.\n\n1. Teaching college mathematics\n\nCoursework: MTHE 879, Teaching College Mathematics.\nTaught four courses as instructor of record, and wrote the recitation notes and worksheets for the proof-writing part of MTH 317H.\n\n\n\n2. Creating effective learning environments\n\nActive-learning recitations built around collaboration, scaffolded tasks, and frequent low-stakes feedback (worksheets, quizzes, exit tickets).\nAs Lead TA, observed classrooms and helped other instructors strengthen their learning environments.\nTutor and supervisor at the Mathematics Learning Center for 6+ semesters.\n\n\n\n3. Assessing student learning\n\nProof-validation tasks and exit tickets give quick, actionable evidence of understanding.\nSeparate student, answer-key, and instructor versions of materials support both practice and feedback.\n\n\n\n4. Incorporating technology in teaching\n\nTaught MTH 124: Survey of Calculus fully online (Summer 2023).\nCourse materials are typeset in LaTeX and published openly on this site.\n\n\n\n5. Understanding the university context\n\nCompleted the Certification in College Teaching Institute (May 2026). Topics included institutional contexts and missions, effective learning environments, assessment of student learning, and technology in teaching.\nPanelist at orientation for incoming Ph.D. students (Fall 2024).\nDepartment of Mathematics representative on the Council of Graduate Students (2025–2026)."
+    "objectID": "teaching/mth317h-fs26.html#how-recitations-work",
+    "href": "teaching/mth317h-fs26.html#how-recitations-work",
+    "title": "MTH 317H: Honors Linear Algebra",
+    "section": "How recitations work",
+    "text": "How recitations work\nEach session aims to have students predict, explore, and sometimes fail productively before they prove, and then consolidate what they found in short notes. A typical packet includes:\n\na warm-up that surfaces the key idea, such as sorting maps by whether they are injective or surjective;\nproof frameworks: the first and last lines of a proof of “injective”, “surjective”, “not injective”, and so on;\ninvestigations that turn computed examples into conjectures;\n“grade the proof” tasks, where students find and repair common logical errors;\nan exit ticket to check understanding at the end of class."
   }
 ]
