@@ -13,3 +13,9 @@
 
 # Local drafts, not published
 /drafts/
+
+# Original photos dropped into files/ (web copies live in images/)
+/files/*.JPG
+/files/*.jpg
+/files/*.jpeg
+/files/*.png
