@@ -1,283 +1,211 @@
 ---
 title: "Teaching Portfolio"
-subtitle: "Philosophy, classroom practice, course materials, student feedback, and mentoring."
 toc: true
 toc-depth: 2
 ---
 
-::: {.portfolio-actions}
-[Read my teaching statement (PDF)](../files/teaching-statement.pdf){.btn .btn-primary}
-[MTH 317H course materials](mth317h-fs26.qmd){.btn .btn-outline-primary}
-[All courses taught](../teaching.qmd){.btn .btn-outline-secondary}
-:::
-
-## Teaching at a glance
-
-::: {.glance-grid}
-::: {.glance-card}
-[4 courses]{.glance-num}
-Instructor of record at MSU, from College Algebra to Multivariable Calculus
-:::
-
-::: {.glance-card}
-[MTH 299 → MTH 818]{.glance-num}
-Teaching assistant from introductory proofs to the graduate algebra qualifying course
-:::
-
-::: {.glance-card}
-[3 formats]{.glance-num}
-In person, fully online, and in person with a live online option
-:::
-
-::: {.glance-card}
-[8 TAs + 16 LAs]{.glance-num}
-Observed and mentored as Lead Teaching Assistant, 2024–25
-:::
-:::
-
-## Teaching philosophy {#philosophy}
-
 My primary goal as an instructor is to make sure every student feels safe, welcome,
 and respected, and knows they belong in the mathematics classroom. Students arrive
 with very different experiences of mathematics, and some have had far more support
-and encouragement than others. I share the conviction behind Federico
-Ardila-Mantilla's axioms for mathematics education: mathematical talent is
-distributed equally across groups of people, and every student deserves meaningful
+and encouragement than others. I share the conviction behind
+[Federico Ardila-Mantilla's axioms for mathematics education](https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf){.gold-link}
+that mathematical talent is distributed equally across groups of people, and every student deserves meaningful
 mathematical experiences and to be treated with dignity and respect.
 
-My own interest in mathematics took time to develop. As a child I struggled with
-mathematics and physics, but I still vividly remember the experiments shown to us by
-a physics teacher who made a two-hour journey through Indian city traffic to teach our
-weekend classes. That teacher showed me how much an instructor can do by making room
-for curiosity and believing that students can understand. His example is why I
-volunteer with math circles and with science and mathematics camps for girls.
+Below are some aspects of my teaching philosophy, and how they show up in the courses
+I have taught. My full [teaching statement (PDF)](../files/teaching-statement.pdf) has
+more detail.
 
-::: {.pullquote}
-Students should *do* mathematics, not just watch it; they should do it *together*;
-and they should be cared for as *whole people*.
+## Teaching philosophy {#philosophy}
 
-[The three commitments that run through my teaching]{.pullquote-cite}
-:::
+### In the classroom
 
-## Principles in practice {#principles}
-
-::: {.principle-grid}
-::: {.principle-card}
-[1]{.principle-num}
-
-### Doing mathematics, not just watching it
-
-After introducing a concept and working an example, I give students time to try a
-related problem before I present a solution. I circulate, offering small hints and
-asking questions that help them find a next step. When a student is unsure or makes a
-mistake, my first concern is to help them feel at ease: an incomplete idea is still
-worth discussing, and I openly acknowledge my own mistakes.
-:::
-
-::: {.principle-card}
-[2]{.principle-num}
-
-### Finding the right picture
-
-A good picture often makes sense before a formal statement does. In MTH 314, I used
-geometric transformations of the plane so that students understood what eigenvalues
-and eigenvectors tell us about a linear transformation while they learned to compute
-them.
-:::
-
-::: {.principle-card}
-[3]{.principle-num}
+- **Doing mathematics, not just watching it.** After introducing a concept and working
+  an example, I give students time to try a related problem before I present a
+  solution. I walk around the room, offering small hints and asking questions that
+  help them find a next step.
+- **Mistakes are part of the work.** When a student is unsure or makes a mistake, my
+  first concern is to help them feel at ease. An incomplete idea is still worth
+  discussing, and I openly acknowledge my own mistakes.
+- **Finding the right picture.** A good picture often makes sense before a formal
+  statement does. In MTH 314 I used geometric transformations of the plane so that
+  students understood what eigenvalues and eigenvectors tell us about a linear
+  transformation while they learned to compute them.
+- **Asking why, not just how.** My MTH 317H worksheets ask why a concept is useful or
+  needed, not only how to apply it.
 
 ### Learning together
 
-Explaining an idea to a classmate is one of the best ways to understand it, and asking
-a classmate is often easier than asking the instructor. I build group work into class
-time in person, and I design online courses so that live sessions are spent working
-together.
-:::
-
-::: {.principle-card}
-[4]{.principle-num}
+Explaining an idea to a classmate is one of the best ways to understand it, and
+asking a classmate is often easier than asking the instructor. In person, I build
+group work into class time. Online, where students rarely get to meet their peers, I
+design the course so that live sessions are spent working on problems together.
 
 ### Caring for the whole student
 
-My students have lives and pressures outside my course. I offer flexible deadlines in
-difficult circumstances, space exams so students have time to prepare, and avoid
-scheduling an exam right after a long weekend or break. An exam is a fair measure of
-learning only when students have had a fair chance to prepare.
-:::
+- **Flexibility.** My students have lives and pressures outside my course. When a
+  student faces difficult circumstances, I offer flexible deadlines so they can
+  complete the work rather than fall behind for reasons beyond their control.
+- **A fair chance to prepare.** I space exams so students have time to prepare, and I
+  avoid scheduling one right after a long weekend or break.
+- **Reaching out.** In an online course a struggling student can easily go unnoticed.
+  I write to students who are not doing well and meet with them individually.
+- **Another chance to show mastery.** With standards-based grading, an unsuccessful
+  attempt becomes a reason to keep working rather than a final verdict.
 
-::: {.principle-card}
-[5]{.principle-num}
+### Feedback
 
-### Mistakes as a reason to keep working
+I check understanding with short exit tickets and low-stakes worksheets, and I release
+complete solutions after each deadline so students can check their own reasoning. I
+also keep listening to what students tell me about their learning, and adjust.
 
-Standards-based grading in MTH 103A gave students further opportunities to show
-mastery of topics they first found difficult, so an unsuccessful attempt became a
-reason to keep working rather than a final verdict.
-:::
+### Technology, including AI
 
-::: {.principle-card}
-[6]{.principle-num}
+I use technology where it serves learning: live writing on an iPad projected to every
+table, recorded videos, Zoom options for bad-weather days, and Python assignments for
+the computational side of linear algebra. In MTH 317H recitations I give students
+poorly written AI-generated proofs and ask them to find unjustified assumptions,
+missing steps, and errors that are easy to overlook when an explanation sounds
+convincing, and to say what the AI did well. The aim is for students to understand
+both what AI can and cannot do, and to gain confidence in judging an argument for
+themselves. AI should not do their homework.
 
-### Not waiting for students to come to me
+## Teaching in different settings {#contexts}
 
-In an online course a struggling student can easily go unnoticed. In MTH 314 I wrote
-to students who were not doing well and met with them individually on Zoom.
-:::
-:::
+**MTH 103A: College Algebra I** (instructor, Spring 2025). About sixty students in an
+active-learning classroom in the MSU Union, with round tables and screens throughout
+the room. Students worked in groups while two undergraduate learning assistants and I
+moved between tables. The class met daily at 8 a.m. through a Michigan winter, so I
+offered a Zoom option for icy mornings and possible closures. I wrote my own notes and
+worksheets and used standards-based grading.
 
-::: {.callout-tip appearance="simple" icon=false}
-**Using AI to sharpen proof reading.** In MTH 317H recitations I give students poorly
-written AI-generated proofs and ask them to find unjustified assumptions, missing
-steps, and errors that are easy to overlook when an explanation sounds convincing, and
-to say what the AI did well. The aim is for students to understand its possibilities
-and limits, and to gain the confidence to assess an argument for themselves, not to
-have AI do their homework.
-:::
+**MTH 124: Survey of Calculus** (instructor, Summer 2023, online). I ran the course as
+a flipped classroom: students watched videos I recorded before class, so our live
+sessions could be spent working through problems and discussing solutions together.
+The course used Piazza for questions, and students could optionally record a short
+video introducing themselves to help them find classmates to work with.
 
-## Teaching across course contexts {#contexts}
+**MTH 314: Matrix Algebra with Applications** (instructor, Summer 2024, online). I wrote
+lecture notes in LaTeX and also shared the handwritten notes from each Zoom lecture,
+so students had both a polished reference and a record of how each argument unfolded.
+I recorded lecture videos and short check-ins between meetings, and designed in-class
+Python assignments.
 
-::: {.context-grid}
-::: {.context-card}
-### MTH 103A: College Algebra I
-*Instructor of record · Spring 2025 · about 60 students*
+**MTH 317H: Honors Linear Algebra** (recitation leader, Fall 2026). I teach the proof
+techniques from MTH 299 that students need but may not yet know. The notes and
+worksheets are on the [course page](mth317h-fs26.qmd).
 
-Taught in an active-learning classroom in the MSU Union, with round tables and screens
-throughout the room. Students worked in groups while two undergraduate learning
-assistants and I circulated, and I wrote live on an iPad projected to every table. The
-class met daily at 8 a.m. through a Michigan winter, so I offered a Zoom option for
-icy mornings and possible closures. I wrote my own lecture notes and worksheets and
-used standards-based grading.
-:::
+## Courses taught {#courses}
 
-::: {.context-card}
-### MTH 124: Survey of Calculus
-*Instructor of record · Summer 2023 · fully online*
+At Michigan State University:
 
-Structured as a flipped classroom. Students watched videos I recorded before class,
-meeting new ideas at their own pace, so live sessions could be spent working problems
-together and consolidating the theory. The course ran on Piazza with engagement
-points, and students could optionally make a short "reel" introducing themselves to
-help them find classmates to work with.
-:::
+- **As instructor:** MTH 103A (College Algebra I), Spring 2025; MTH 234 (Multivariable
+  Calculus), Fall 2024; MTH 314 (Matrix Algebra with Applications), Summer 2024;
+  MTH 124 (Survey of Calculus, online), Summer 2023.
+- **As teaching assistant:** [MTH 317H](mth317h-fs26.qmd) (Honors Linear Algebra),
+  Fall 2026; MTH 299 (Introduction to Proofs), Spring 2026; MTH 818 (Graduate
+  Algebra I), Fall 2025; MTH 314, Spring 2024; MTH 234, Fall 2023.
 
-::: {.context-card}
-### MTH 314: Matrix Algebra with Applications
-*Instructor of record · Summer 2024 · fully online*
+At IISER Tirupati: teaching assistant for Introduction to Proofs, Monsoon 2021.
 
-I wrote lecture notes in LaTeX and also shared the handwritten notes produced live in
-each Zoom lecture, so students had both a polished reference and a record of how each
-argument unfolded. I recorded lecture videos, posted short check-in videos between
-meetings, and designed in-class Python assignments so students practiced the
-computational side of matrix algebra alongside the theory.
-:::
+## Sample teaching materials {#materials}
 
-::: {.context-card}
-### MTH 317H: Honors Linear Algebra
-*Recitation leader · Fall 2026*
+- [MTH 317H recitation notes and worksheets](mth317h-fs26.qmd), including the Week 7
+  packet on proofs about linear maps and its answer key.
 
-I teach the proof techniques from MTH 299 that students need but may not yet know,
-with worksheets that ask *why* a concept is useful or needed. Complete solutions are
-released twenty-four hours after each deadline so students can check their reasoning.
-[Course materials →](mth317h-fs26.qmd)
-:::
-:::
+## Student feedback {#student-feedback}
 
-I have also been instructor of record for MTH 234: Multivariable Calculus (Fall 2024),
-and a teaching assistant for courses including MTH 299 (Introduction to Proofs) and
-MTH 818 (Graduate Algebra I). See the full list on the [Teaching](../teaching.qmd) page.
+A few comments from end-of-semester student surveys:
 
-## Student feedback {#feedback}
+> "One of the nicest professors I have interacted with at MSU." (MTH 314)
 
-::: {.quote-grid}
 > "He treats all the students respectfully and replies to our queries quickly."
 
-> "We learned what these concepts actually represented in linear algebra rather than
-> just the routine calculations."
->
-> [MTH 314]{.quote-src}
-
-> "One of the nicest professors I have interacted with at MSU."
->
-> [MTH 314, Summer 2024]{.quote-src}
-
 > "The teacher always provided examples with his explanations and double checked with
-> the class to make sure we were understanding concepts."
->
-> [MTH 314, Summer 2024]{.quote-src}
+> the class to make sure we were understanding concepts." (MTH 314)
 
-> "The course videos and notes helped provide a good way to study, and the ICs were an
-> interesting way to practice math problems using code."
->
-> [MTH 314, Summer 2024]{.quote-src}
+> "We learned what these concepts actually represented in linear algebra rather than
+> just the routine calculations." (MTH 314)
 
-> "Homework was appropriately balanced between difficulty and length."
->
-> [MTH 818, Fall 2025]{.quote-src}
-:::
+> "Rather than simply showing the calculations for a problem, we actually went over
+> what the concepts actually were." (MTH 314)
 
-**A supportive and inclusive learning environment.** Means on MSU's Student
-Perceptions of Learning Survey (1–5 agreement scale).
+> "The course videos and notes helped provide a good way to study, and the ICs
+> [in-class assignments] were an interesting way to practice math problems using
+> code." (MTH 314)
 
-| Course | Responses | I was treated with respect | My contributions were valued | I felt included | I knew how to get help |
-|--------|:---------:|:-----:|:-----:|:-----:|:-----:|
-| MTH 314, Summer 2024 (instructor) | 10/31 | 4.60 | 4.50 | 4.20 | 4.22 |
-| MTH 818, Fall 2025 (teaching assistant) | 4/11 | 4.75 | 4.75 | 4.50 | 5.00 |
+> "The graded and ungraded work had similar scopes of difficulty so I felt it was good
+> practice." (MTH 314)
 
-: {.striped}
+> "Homework was appropriately balanced between difficulty and length." (MTH 818)
 
 ## Leadership and mentoring {#leadership}
 
-- **Lead Teaching Assistant**, MSU (Fall 2024, Spring 2025): observed classrooms and
-  gave teaching feedback to 8 teaching assistants and 16 undergraduate learning
-  assistants.
-- **Mentor**, MSU Summer Topology Program (Summer 2026): supervised two undergraduate
-  projects, on Euler characteristics and the Lefschetz fixed-point theorem, and on the
-  Gauss–Bonnet theorem and the classification of surfaces.
-- **Tutor and Supervisor**, Mathematics Learning Center (6+ semesters).
-- **Panelist**, orientation for incoming Ph.D. students (Fall 2024).
-- **Outreach**: volunteer with math circles and with science and mathematics camps for
-  girls.
+- **Lead Teaching Assistant** (Fall 2024, Spring 2025): observed classrooms and gave
+  teaching feedback to 8 teaching assistants and 16 undergraduate learning assistants.
+- **Mentor, MSU Summer Topology Program** (Summer 2026): supervised two undergraduate
+  projects, one on Euler characteristics and the Lefschetz fixed-point theorem, and one
+  on the Gauss–Bonnet theorem and the classification of surfaces.
+- **Tutor and supervisor, Mathematics Learning Center** (6+ semesters).
+- **Panelist,** orientation for incoming Ph.D. students (Fall 2024).
+- **Outreach:** math circles, and science and mathematics camps for girls.
 
 ## Professional development {#cct}
 
 I am completing MSU's
 [Certification in College Teaching](https://grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching/certification-in-college-teaching)
-(expected Spring 2027), including the course **MTHE 879: Teaching College
-Mathematics**.
+(expected Spring 2027), which includes the course MTHE 879, Teaching College
+Mathematics, and the Certification in College Teaching Institute (May 2026). Workshops
+I attended at the Institute:
 
-**Certification in College Teaching Institute workshops attended (May 2026)**
-
-- *Understanding the University Context: Aligning Teaching with Different Institutional
-  Types and Missions*, Dr. Judith Stoddart (Vice Provost, University Arts and Collections)
+- *Understanding the University Context: Aligning Teaching with Different
+  Institutional Types and Missions*, Dr. Judith Stoddart (Vice Provost, University Arts
+  and Collections)
 - *Creating Effective Learning Environments*, Dr. Kirstin Parkin (Associate Professor,
   Microbiology and Molecular Genetics)
 - *Assessing Student Learning*, Dr. Rique Campa (Professor and Senior Associate Dean,
   Graduate School)
 - *Incorporating Technology in Teaching*, Dr. Stefanie Baier
 
-**Looking ahead.** Conversations with classmates from several disciplines have
-encouraged me to give students more choice in how they show understanding. Where a
-course allows it, I would like to offer projects such as a video, artwork, or a
-physical model, like a toy that demonstrates projectile motion for a unit on
-quadratics.
+Conversations with classmates from several disciplines have encouraged me to give
+students more choice in how they show understanding. Where a course allows it, I would
+like to offer projects such as a video, an artwork, or a physical model.
 
 ## Resources for students {#resources}
 
-**At MSU**
+### Learning and reading
+
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown): visual explanations of
+  mathematics, including a series on linear algebra
+- [Keith Conrad's expository papers](https://kconrad.math.uconn.edu/blurbs/): clear,
+  self-contained notes on algebra and number theory
+- [Terence Tao's career advice](https://terrytao.wordpress.com/career-advice/): essays on
+  studying and working in mathematics
+- [*Book of Proof*](https://richardhammack.github.io/BookOfProof/) by Richard Hammack,
+  [*Linear Algebra Done Right*](https://linear.axler.net) by Sheldon Axler, and
+  [*Linear Algebra Done Wrong*](https://www.math.brown.edu/streil/papers/LADW/LADW.html)
+  by Sergei Treil, all free online
+- [Springer textbooks](https://link.springer.com): many can be downloaded free through
+  [MSU Libraries](https://lib.msu.edu); sign in with your MSU NetID
+- [OpenStax](https://openstax.org): free, peer-reviewed college textbooks
+
+### Tools
+
+- [Desmos](https://www.desmos.com/calculator): online graphing calculator
+- [Wolfram|Alpha](https://www.wolframalpha.com): computational answer engine
+- [Overleaf](https://www.overleaf.com): write mathematics in LaTeX in the browser
+
+### At MSU
 
 - [Mathematics Learning Center](https://math.msu.edu/mlc): free drop-in tutoring for
   MTH courses
+- [MSU Food Bank](https://foodbank.msu.edu)
 - [Counseling and Psychiatric Services (CAPS)](https://caps.msu.edu)
 - [Resource Center for Persons with Disabilities (RCPD)](https://rcpd.msu.edu)
 
-**Free tools and texts**
+### Math and science programs in the Lansing area
 
-- [Desmos](https://www.desmos.com/calculator): online graphing calculator
-- [OpenStax](https://openstax.org): free, peer-reviewed college textbooks
-- [*Book of Proof*](https://richardhammack.github.io/BookOfProof/) by Richard Hammack
-- [*Linear Algebra Done Right*](https://linear.axler.net) by Sheldon Axler, and
-  [*Linear Algebra Done Wrong*](https://www.math.brown.edu/streil/papers/LADW/LADW.html)
-  by Sergei Treil
-- [Overleaf](https://www.overleaf.com): write mathematics in LaTeX in the browser
+- [MSU summer math camps](https://math.msu.edu/Outreach/2026-summer-math-camps/index.aspx),
+  run by the MSU Department of Mathematics
+- [Middle School Girls Math and Science Day](https://spartanyouth.msu.edu/resources/m/middle-school-girls-math-and-science-day),
+  hosted at MSU by Graduate Women in Science
