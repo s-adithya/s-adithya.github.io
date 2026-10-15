@@ -33,9 +33,15 @@ short quiz.
 - Kevin Houston, *How to Think Like a Mathematician*
 - Chartrand, Polimeni and Zhang, *Mathematical Proofs: A Transition to Advanced Mathematics*
 
+## Office hours
+
+- **Office hours / help room:** Wednesdays, 10am–12pm, Wells Hall D101K
+- **Zoom:** additional hours can be scheduled by appointment. Email me at
+  [sathyan1@msu.edu](mailto:sathyan1@msu.edu).
+
 ::: {.callout-note appearance="simple"}
-Enrolled students: official course information, including the syllabus, office hours,
-homework and grades, is on D2L.
+Enrolled students: official course information, including the syllabus, homework,
+and grades, is on D2L.
 :::
 
 ## Recitation materials
