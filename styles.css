@@ -35,3 +35,91 @@
   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.08);
 }
 .edu-text p { margin: 0; }
+
+/* Home page: use the width on large screens, but cap it so lines stay readable */
+.quarto-about-trestles {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (min-width: 992px) {
+  .quarto-about-trestles .about-entity {
+    flex: 0 0 34%;
+  }
+  .quarto-about-trestles .about-contents {
+    flex: 1 1 0;
+    padding-left: 3rem;
+  }
+}
+
+/* ---------- Teaching portfolio ---------- */
+.portfolio-actions { display: flex; flex-wrap: wrap; gap: .5rem; margin: .5rem 0 1.5rem; }
+.portfolio-actions p { display: contents; }
+
+.glance-grid, .principle-grid, .context-grid, .quote-grid {
+  display: grid;
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+.glance-grid    { grid-template-columns: repeat(auto-fit, minmax(min(190px, 100%), 1fr)); }
+.principle-grid { grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr)); }
+.context-grid   { grid-template-columns: repeat(auto-fit, minmax(min(320px, 100%), 1fr)); }
+.quote-grid     { grid-template-columns: repeat(auto-fit, minmax(min(280px, 100%), 1fr)); }
+
+.glance-card, .principle-card, .context-card {
+  border: 1px solid var(--bs-border-color);
+  border-radius: 12px;
+  padding: 1rem 1.15rem;
+  background: var(--bs-tertiary-bg);
+}
+.glance-card p, .principle-card p, .context-card p { margin-bottom: .5rem; }
+.glance-card { font-family: "Inter", system-ui, sans-serif; font-size: .88em; line-height: 1.45; }
+.glance-num {
+  display: block;
+  font-family: "Inter", system-ui, sans-serif;
+  font-weight: 700;
+  font-size: 1.35rem;
+  color: var(--bs-primary);
+  margin-bottom: .25rem;
+}
+.principle-num {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 2rem; height: 2rem; border-radius: 50%;
+  background: var(--bs-primary); color: #fff;
+  font-family: "Inter", system-ui, sans-serif; font-weight: 600;
+}
+.principle-card h3, .context-card h3 { margin-top: .5rem; font-size: 1.1rem; }
+.context-card h3 { margin-top: 0; }
+
+.pullquote {
+  margin: 1.5rem 0;
+  padding: 1.25rem 1.5rem;
+  border-left: 4px solid var(--bs-primary);
+  background: var(--bs-tertiary-bg);
+  font-size: 1.2em;
+  line-height: 1.5;
+}
+.pullquote p { margin-bottom: .4rem; }
+.pullquote-cite {
+  display: block;
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: .75em;
+  color: var(--bs-secondary-color);
+}
+
+.quote-grid blockquote {
+  margin: 0;
+  padding: 1rem 1.15rem;
+  border: 1px solid var(--bs-border-color);
+  border-left: 4px solid var(--bs-primary);
+  border-radius: 0;
+  font-style: italic;
+  color: var(--bs-body-color);
+}
+.quote-grid blockquote p:last-child { margin-bottom: 0; }
+.quote-src {
+  font-style: normal;
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: .8em;
+  color: var(--bs-secondary-color);
+}
