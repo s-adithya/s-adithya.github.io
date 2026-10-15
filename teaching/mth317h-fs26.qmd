@@ -15,7 +15,7 @@ The course has two lecture sections that meet on Tuesdays and Thursdays and cove
 linear algebra. I lead the **Monday recitations**. For roughly the first half of the
 semester, recitation is an accelerated introduction to proof writing (essentially the
 content of MTH 299), taught through notes and collaborative worksheets. Later
-recitations practice the linear algebra from lecture. Many recitations end with a
+recitations practice the linear algebra from lecture. Many recitations start with a
 short quiz.
 
 **Learning objectives**
