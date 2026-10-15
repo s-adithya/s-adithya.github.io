@@ -7,6 +7,34 @@
     "text": "Download PDF"
   },
   {
+    "objectID": "teaching/mth317h-fs26.html",
+    "href": "teaching/mth317h-fs26.html",
+    "title": "MTH 317H: Honors Linear Algebra",
+    "section": "",
+    "text": "MTH 317H is an advanced introduction to linear algebra and abstract vector spaces, with a strong emphasis on mathematical communication. Students learn to construct logical arguments and write clear, rigorous proofs.\nThe course has two lecture sections that meet on Tuesdays and Thursdays and cover the linear algebra. I lead the Monday recitations. For roughly the first half of the semester, recitation is an accelerated introduction to proof writing (essentially the content of MTH 299), taught through notes and collaborative worksheets. Later recitations practice the linear algebra from lecture. Many recitations end with a short quiz.\nLearning objectives\n\nUnderstand and use key concepts of linear algebra: vector spaces, linear transformations, systems of linear equations, determinants, and eigenvalues and eigenvectors.\nGain proficiency in constructing and writing proofs.\n\nTexts (all free online, except the last two)\n\nSheldon Axler, Linear Algebra Done Right, 4th ed. (LADR)\nSergei Treil, Linear Algebra Done Wrong (LADW)\nRichard Hammack, Book of Proof, 3rd ed.\nKevin Houston, How to Think Like a Mathematician\nChartrand, Polimeni and Zhang, Mathematical Proofs: A Transition to Advanced Mathematics\n\n\n\n\n\n\n\nEnrolled students: official course information, including the syllabus, office hours, homework and grades, is on D2L."
+  },
+  {
+    "objectID": "teaching/mth317h-fs26.html#about-the-course",
+    "href": "teaching/mth317h-fs26.html#about-the-course",
+    "title": "MTH 317H: Honors Linear Algebra",
+    "section": "",
+    "text": "MTH 317H is an advanced introduction to linear algebra and abstract vector spaces, with a strong emphasis on mathematical communication. Students learn to construct logical arguments and write clear, rigorous proofs.\nThe course has two lecture sections that meet on Tuesdays and Thursdays and cover the linear algebra. I lead the Monday recitations. For roughly the first half of the semester, recitation is an accelerated introduction to proof writing (essentially the content of MTH 299), taught through notes and collaborative worksheets. Later recitations practice the linear algebra from lecture. Many recitations end with a short quiz.\nLearning objectives\n\nUnderstand and use key concepts of linear algebra: vector spaces, linear transformations, systems of linear equations, determinants, and eigenvalues and eigenvectors.\nGain proficiency in constructing and writing proofs.\n\nTexts (all free online, except the last two)\n\nSheldon Axler, Linear Algebra Done Right, 4th ed. (LADR)\nSergei Treil, Linear Algebra Done Wrong (LADW)\nRichard Hammack, Book of Proof, 3rd ed.\nKevin Houston, How to Think Like a Mathematician\nChartrand, Polimeni and Zhang, Mathematical Proofs: A Transition to Advanced Mathematics\n\n\n\n\n\n\n\nEnrolled students: official course information, including the syllabus, office hours, homework and grades, is on D2L."
+  },
+  {
+    "objectID": "teaching/mth317h-fs26.html#recitation-materials",
+    "href": "teaching/mth317h-fs26.html#recitation-materials",
+    "title": "MTH 317H: Honors Linear Algebra",
+    "section": "Recitation materials",
+    "text": "Recitation materials\n\n\n\nWeek\nDate\nTopic\nMaterials\n\n\n\n\n1\nAug 31\nIntro to proofs: sets\nNotes\n\n\n2\nSep 7\nLabor Day, no recitation\n\n\n\n3\nSep 14\nStatements, implications, and negations\nNotes\n\n\n4\nSep 21\nProof by contradiction and contrapositive\nNotes\n\n\n5\nSep 28\nContradiction and contrapositive (cont.); introduction to functions\nNotes · Worksheet · Solutions · Extra practice: injective and surjective (solutions)\n\n\n6\nOct 5\nBijections, inverses, and cardinality\nNotes · Worksheet · Solutions\n\n\n7\nOct 12\nReview: proofs about linear maps (existence, uniqueness)\nPacket · Answer key\n\n\n8\nOct 19\nExam 1 review\n\n\n\n9\nOct 26\nFall break\n\n\n\n10\nNov 2\nProof by induction\n\n\n\n11\nNov 9\nSystems of linear equations: practice\n\n\n\n12\nNov 16\nDeterminants and cofactor expansion: practice\n\n\n\n13\nNov 23\nExam 2\n\n\n\n14\nNov 30\nEigenvalues and eigenvectors: practice\n\n\n\n15\nDec 7\nDiagonalization: practice"
+  },
+  {
+    "objectID": "teaching/mth317h-fs26.html#how-recitations-work",
+    "href": "teaching/mth317h-fs26.html#how-recitations-work",
+    "title": "MTH 317H: Honors Linear Algebra",
+    "section": "How recitations work",
+    "text": "How recitations work\nEach session aims to have students predict, explore, and sometimes fail productively before they prove, and then consolidate what they found in short notes. A typical packet includes:\n\na warm-up that surfaces the key idea, such as sorting maps by whether they are injective or surjective;\nproof frameworks: the first and last lines of a proof of “injective”, “surjective”, “not injective”, and so on;\ninvestigations that turn computed examples into conjectures;\n“grade the proof” tasks, where students find and repair common logical errors;\nan exit ticket to check understanding at the end of class."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Adithya Sathyanarayana",
@@ -35,32 +63,81 @@
     "text": "Education\nPh.D. in Mathematics, Michigan State University · expected June 2027\nAdvisor: Georgios Pappas\nB.S.–M.S. Dual Degree, IISER Tirupati, India · 2022\nAdvisor: D. S. Nagaraj · Master’s thesis: Class field theory"
   },
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks",
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
     "section": "",
-    "text": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3\n\nGroup, Lie and Number Theory Seminar, University of Michigan · November 2026 (scheduled)\nGraduate Student Lecture Series (UBDoG), University at Buffalo · October 2026 (scheduled)\nAMS Special Session on Springer Fibers, Harmonic Analysis, and Arithmetic, George Washington University · October 4, 2026 (twisted and untwisted cases) · slides\nAutomorphic Forms and Representation Theory Seminar, Purdue University · September 2026\nGraduate Student Conference in Algebra, Geometry, and Topology (GTA Philly), Temple University · May 30, 2026"
+    "text": "Short notes on mathematics, computation, and things I’m learning. Posts coming soon.\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "talks.html#invited-talks",
-    "href": "talks.html#invited-talks",
-    "title": "Talks",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3\n\nGroup, Lie and Number Theory Seminar, University of Michigan · November 2026 (scheduled)\nGraduate Student Lecture Series (UBDoG), University at Buffalo · October 2026 (scheduled)\nAMS Special Session on Springer Fibers, Harmonic Analysis, and Arithmetic, George Washington University · October 4, 2026 (twisted and untwisted cases) · slides\nAutomorphic Forms and Representation Theory Seminar, Purdue University · September 2026\nGraduate Student Conference in Algebra, Geometry, and Topology (GTA Philly), Temple University · May 30, 2026"
+    "text": "Currently: Recitation Leader for MTH 317H: Honors Linear Algebra (Fall 2026). Course notes and worksheets are on the course page.\nSee also my teaching portfolio."
   },
   {
-    "objectID": "talks.html#contributed-talks",
-    "href": "talks.html#contributed-talks",
-    "title": "Talks",
-    "section": "Contributed talks",
-    "text": "Contributed talks\nAll at the Student Algebra Seminar, Michigan State University, unless noted.\n\nGalois module theory · Fall 2026\nDeligne–Lusztig varieties · October 2025\nNon-split Cartan subgroups and the associated modular curves · Learning Seminar: The Class Number One Problem d’après Serre · Spring 2025\nReciprocity laws in number theory · 2024"
+    "objectID": "teaching.html#instructor-of-record",
+    "href": "teaching.html#instructor-of-record",
+    "title": "Teaching",
+    "section": "Instructor of record",
+    "text": "Instructor of record\nMichigan State University\n\n\n\nTerm\nCourse\n\n\n\n\nSpring 2025\nMTH 103A: College Algebra I\n\n\nFall 2024\nMTH 234: Multivariable Calculus\n\n\nSummer 2024\nMTH 314: Matrix Algebra with Applications\n\n\nSummer 2023\nMTH 124: Survey of Calculus (online)"
   },
   {
-    "objectID": "talks.html#posters",
-    "href": "talks.html#posters",
-    "title": "Talks",
-    "section": "Posters",
-    "text": "Posters\n\nGalois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3, Algebraic Geometry Northeastern Series (AGNES), Brown University · November 21, 2026 (scheduled)\nGalois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3/\\mathbb{F}_p: untwisted and twisted cases, The Australian Direction, University of Utah · August 11, 2026 (invited poster) · poster"
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "Teaching assistant",
+    "text": "Teaching assistant\n\n\n\nTerm\nCourse\nInstitution\n\n\n\n\nFall 2026\nMTH 317H: Honors Linear Algebra (Recitation Leader)\nMSU\n\n\nSpring 2026\nMTH 299: Introduction to Proofs\nMSU\n\n\nFall 2025\nMTH 818: Graduate Algebra I (qualifying exam course)\nMSU\n\n\nSpring 2024\nMTH 314: Matrix Algebra with Applications\nMSU\n\n\nFall 2023\nMTH 234: Multivariable Calculus\nMSU\n\n\nMonsoon 2021\nIntroduction to Proofs\nIISER Tirupati"
+  },
+  {
+    "objectID": "teaching.html#teaching-leadership",
+    "href": "teaching.html#teaching-leadership",
+    "title": "Teaching",
+    "section": "Teaching leadership",
+    "text": "Teaching leadership\n\nLead Teaching Assistant (Fall 2024, Spring 2025): observed classes and gave teaching feedback to 8 teaching assistants and 16 undergraduate learning assistants.\nPanelist, orientation for incoming Ph.D. students (Fall 2024)\nTutor and Supervisor, Mathematics Learning Center (6+ semesters)\nCertification in College Teaching, Michigan State University (expected Spring 2027)"
+  },
+  {
+    "objectID": "teaching.html#mentoring",
+    "href": "teaching.html#mentoring",
+    "title": "Teaching",
+    "section": "Mentoring",
+    "text": "Mentoring\nMSU Summer Topology Program (Summer 2026). I mentored two undergraduate projects:\n\nEuler characteristics and the Lefschetz fixed-point theorem in algebraic topology\nThe Gauss–Bonnet theorem and the classification of surfaces"
+  },
+  {
+    "objectID": "research/dl-gl3.html",
+    "href": "research/dl-gl3.html",
+    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "section": "",
+    "text": "Status: under preparation. An arXiv link will be added here when the preprint is posted.\nSlides (AMS, Oct 2026) Poster (Utah, Aug 2026) Talks on this work"
+  },
+  {
+    "objectID": "research/dl-gl3.html#summary",
+    "href": "research/dl-gl3.html#summary",
+    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "section": "Summary",
+    "text": "Summary\nDeligne and Lusztig defined a finite étale cover Y(w) \\to X(w) of varieties. It is attached to any connected reductive group \\mathbf{G} defined over a finite field \\mathbb{F}_q, with a Frobenius endomorphism F, and to a Weyl group element w \\in W.\nWe consider the ramified Galois covers \n\\overline{Y(w)} \\longrightarrow \\overline{X(w)}\n of the natural compactifications of these Deligne–Lusztig varieties. Our goal is to calculate the Lefschetz numbers for the action of the covering group on the coherent cohomology of the structure sheaf of \\overline{Y(w)}. The covering group is \\mathbf{T}^{wF}, the \\mathbb{F}_p-points of a torus.\nThese numbers determine the representation of \\mathbf{T}^{wF} on the alternating sum \n\\sum_i (-1)^i \\, H^i\\big(\\overline{Y(w)}, \\mathcal{O}_{\\overline{Y(w)}}\\big).\n The paper gives these Lefschetz numbers explicitly for Deligne–Lusztig surfaces, in the cases \\mathbf{G}^F = \\mathrm{GL}_3(\\mathbb{F}_p) and \\mathbf{G}^F = \\mathrm{U}_3(\\mathbb{F}_p)."
+  },
+  {
+    "objectID": "research/dl-gl3.html#method",
+    "href": "research/dl-gl3.html#method",
+    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "section": "Method",
+    "text": "Method\nThe approach is to work étale-locally to resolve the singularities of \\overline{Y(w)}, and to construct a smooth model carrying an action of \\mathbf{T}^{wF} that extends the action on \\overline{Y(w)}. The local calculations lead to toric geometry. The Hirzebruch–Jung algorithm for minimal resolutions of toric surfaces then supplies what is needed to apply the Lefschetz–Riemann–Roch theorem. In both the split and the unitary case, the resulting Lefschetz numbers are explicit and nonzero."
+  },
+  {
+    "objectID": "research/dl-gl3.html#background-geometric-galois-module-theory",
+    "href": "research/dl-gl3.html#background-geometric-galois-module-theory",
+    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "section": "Background: geometric Galois module theory",
+    "text": "Background: geometric Galois module theory\nGeometric Galois module theory studies how a finite group acting on an algebraic variety or scheme gives module structures on its cohomological and arithmetic invariants. If a finite group G acts on a variety X, then G acts naturally on cohomology groups such as H^i(X, \\mathcal{F}). These groups can then be studied as modules over the group ring k[G], or over the corresponding integral group rings in arithmetic settings.\nA central problem is to determine these module structures, and their equivariant Euler characteristics, for a Galois cover X \\to X/G. This extends classical Galois module theory to higher dimensions. In the classical theory, one studies rings of integers in finite Galois extensions of local or global fields as modules over group rings.\nThe subject draws on arithmetic geometry, algebraic geometry, representation theory, and algebraic K-theory. Ramification and fixed-point data play a central role in the structure of the resulting Galois modules."
+  },
+  {
+    "objectID": "research/dl-gl3.html#talks",
+    "href": "research/dl-gl3.html#talks",
+    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "section": "Talks",
+    "text": "Talks\n\nGroup, Lie and Number Theory Seminar, University of Michigan · November 2026 (scheduled)\nPoster, AGNES, Brown University · November 21, 2026 (scheduled)\nGraduate Student Lecture Series (UBDoG), University at Buffalo · October 2026 (scheduled)\nAMS Special Session on Springer Fibers, Harmonic Analysis, and Arithmetic, George Washington University · October 4, 2026 · slides\nAutomorphic Forms and Representation Theory Seminar, Purdue University · September 2026\nPoster, The Australian Direction, University of Utah · August 11, 2026 · poster\nGTA Philly, Temple University · May 30, 2026"
   },
   {
     "objectID": "research.html",
@@ -105,80 +182,66 @@
     "text": "Seminars\n\nCo-organizer, Student Algebra Seminar, Michigan State University (Fall 2024, Spring 2025)\nParticipant at MSU: Agentic AI Seminar (Fall 2026), Lean Seminar (Spring and Fall 2026), Étale Cohomology Learning Seminar (2025–26), Class Number One Problem Learning Seminar (Spring 2025), Class Field Theory Learning Seminar (Summer 2023)"
   },
   {
-    "objectID": "research/dl-gl3.html",
-    "href": "research/dl-gl3.html",
-    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
     "section": "",
-    "text": "Status: under preparation. An arXiv link will be added here when the preprint is posted.\nSlides (AMS, Oct 2026) Poster (Utah, Aug 2026) Talks on this work"
+    "text": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3\n\nGroup, Lie and Number Theory Seminar, University of Michigan · November 2026 (scheduled)\nGraduate Student Lecture Series (UBDoG), University at Buffalo · October 2026 (scheduled)\nAMS Special Session on Springer Fibers, Harmonic Analysis, and Arithmetic, George Washington University · October 4, 2026 (twisted and untwisted cases) · slides\nAutomorphic Forms and Representation Theory Seminar, Purdue University · September 2026\nGraduate Student Conference in Algebra, Geometry, and Topology (GTA Philly), Temple University · May 30, 2026"
   },
   {
-    "objectID": "research/dl-gl3.html#summary",
-    "href": "research/dl-gl3.html#summary",
-    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
-    "section": "Summary",
-    "text": "Summary\nDeligne and Lusztig defined a finite étale cover Y(w) \\to X(w) of varieties. It is attached to any connected reductive group \\mathbf{G} defined over a finite field \\mathbb{F}_q, with a Frobenius endomorphism F, and to a Weyl group element w \\in W.\nWe consider the ramified Galois covers \n\\overline{Y(w)} \\longrightarrow \\overline{X(w)}\n of the natural compactifications of these Deligne–Lusztig varieties. Our goal is to calculate the Lefschetz numbers for the action of the covering group on the coherent cohomology of the structure sheaf of \\overline{Y(w)}. The covering group is \\mathbf{T}^{wF}, the \\mathbb{F}_p-points of a torus.\nThese numbers determine the representation of \\mathbf{T}^{wF} on the alternating sum \n\\sum_i (-1)^i \\, H^i\\big(\\overline{Y(w)}, \\mathcal{O}_{\\overline{Y(w)}}\\big).\n The paper gives these Lefschetz numbers explicitly for Deligne–Lusztig surfaces, in the cases \\mathbf{G}^F = \\mathrm{GL}_3(\\mathbb{F}_p) and \\mathbf{G}^F = \\mathrm{U}_3(\\mathbb{F}_p)."
-  },
-  {
-    "objectID": "research/dl-gl3.html#method",
-    "href": "research/dl-gl3.html#method",
-    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
-    "section": "Method",
-    "text": "Method\nThe approach is to work étale-locally to resolve the singularities of \\overline{Y(w)}, and to construct a smooth model carrying an action of \\mathbf{T}^{wF} that extends the action on \\overline{Y(w)}. The local calculations lead to toric geometry. The Hirzebruch–Jung algorithm for minimal resolutions of toric surfaces then supplies what is needed to apply the Lefschetz–Riemann–Roch theorem. In both the split and the unitary case, the resulting Lefschetz numbers are explicit and nonzero."
-  },
-  {
-    "objectID": "research/dl-gl3.html#background-geometric-galois-module-theory",
-    "href": "research/dl-gl3.html#background-geometric-galois-module-theory",
-    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
-    "section": "Background: geometric Galois module theory",
-    "text": "Background: geometric Galois module theory\nGeometric Galois module theory studies how a finite group acting on an algebraic variety or scheme gives module structures on its cohomological and arithmetic invariants. If a finite group G acts on a variety X, then G acts naturally on cohomology groups such as H^i(X, \\mathcal{F}). These groups can then be studied as modules over the group ring k[G], or over the corresponding integral group rings in arithmetic settings.\nA central problem is to determine these module structures, and their equivariant Euler characteristics, for a Galois cover X \\to X/G. This extends classical Galois module theory to higher dimensions. In the classical theory, one studies rings of integers in finite Galois extensions of local or global fields as modules over group rings.\nThe subject draws on arithmetic geometry, algebraic geometry, representation theory, and algebraic K-theory. Ramification and fixed-point data play a central role in the structure of the resulting Galois modules."
-  },
-  {
-    "objectID": "research/dl-gl3.html#talks",
-    "href": "research/dl-gl3.html#talks",
-    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
-    "section": "Talks",
-    "text": "Talks\n\nGroup, Lie and Number Theory Seminar, University of Michigan · November 2026 (scheduled)\nPoster, AGNES, Brown University · November 21, 2026 (scheduled)\nGraduate Student Lecture Series (UBDoG), University at Buffalo · October 2026 (scheduled)\nAMS Special Session on Springer Fibers, Harmonic Analysis, and Arithmetic, George Washington University · October 4, 2026 · slides\nAutomorphic Forms and Representation Theory Seminar, Purdue University · September 2026\nPoster, The Australian Direction, University of Utah · August 11, 2026 · poster\nGTA Philly, Temple University · May 30, 2026"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "talks.html#invited-talks",
+    "href": "talks.html#invited-talks",
+    "title": "Talks",
     "section": "",
-    "text": "Michigan State University\n\n\n\nTerm\nCourse\n\n\n\n\nSpring 2025\nMTH 103A: College Algebra I\n\n\nFall 2024\nMTH 234: Multivariable Calculus\n\n\nSummer 2024\nMTH 314: Matrix Algebra with Applications\n\n\nSummer 2023\nMTH 124: Survey of Calculus (online)"
+    "text": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3\n\nGroup, Lie and Number Theory Seminar, University of Michigan · November 2026 (scheduled)\nGraduate Student Lecture Series (UBDoG), University at Buffalo · October 2026 (scheduled)\nAMS Special Session on Springer Fibers, Harmonic Analysis, and Arithmetic, George Washington University · October 4, 2026 (twisted and untwisted cases) · slides\nAutomorphic Forms and Representation Theory Seminar, Purdue University · September 2026\nGraduate Student Conference in Algebra, Geometry, and Topology (GTA Philly), Temple University · May 30, 2026"
   },
   {
-    "objectID": "teaching.html#instructor-of-record",
-    "href": "teaching.html#instructor-of-record",
-    "title": "Teaching",
+    "objectID": "talks.html#contributed-talks",
+    "href": "talks.html#contributed-talks",
+    "title": "Talks",
+    "section": "Contributed talks",
+    "text": "Contributed talks\nAll at the Student Algebra Seminar, Michigan State University, unless noted.\n\nGalois module theory · Fall 2026\nDeligne–Lusztig varieties · October 2025\nNon-split Cartan subgroups and the associated modular curves · Learning Seminar: The Class Number One Problem d’après Serre · Spring 2025\nReciprocity laws in number theory · 2024"
+  },
+  {
+    "objectID": "talks.html#posters",
+    "href": "talks.html#posters",
+    "title": "Talks",
+    "section": "Posters",
+    "text": "Posters\n\nGalois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3, Algebraic Geometry Northeastern Series (AGNES), Brown University · November 21, 2026 (scheduled)\nGalois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3/\\mathbb{F}_p: untwisted and twisted cases, The Australian Direction, University of Utah · August 11, 2026 (invited poster) · poster"
+  },
+  {
+    "objectID": "drafts/teaching-philosophy.html",
+    "href": "drafts/teaching-philosophy.html",
+    "title": "Draft: teaching philosophy section for teaching/portfolio.qmd",
     "section": "",
-    "text": "Michigan State University\n\n\n\nTerm\nCourse\n\n\n\n\nSpring 2025\nMTH 103A: College Algebra I\n\n\nFall 2024\nMTH 234: Multivariable Calculus\n\n\nSummer 2024\nMTH 314: Matrix Algebra with Applications\n\n\nSummer 2023\nMTH 124: Survey of Calculus (online)"
+    "text": "Paste this above ‘## Teaching at a glance’ once files/teaching-statement.pdf exists.\n\n\nI want students to experience mathematics as something they do, not only something they watch. In my classrooms, students predict, explore, and sometimes fail productively before they are asked to prove. Collaborative worksheets, explicit proof frameworks, and “grade the proof” exercises help make the habits of rigorous mathematical writing visible and learnable. Short exit tickets let me check understanding and adjust the next session.\nIf you are curious how these ideas shape my teaching, you can read my full teaching statement."
   },
   {
-    "objectID": "teaching.html#teaching-assistant",
-    "href": "teaching.html#teaching-assistant",
-    "title": "Teaching",
-    "section": "Teaching assistant",
-    "text": "Teaching assistant\n\n\n\n\n\n\n\n\nTerm\nCourse\nInstitution\n\n\n\n\nFall 2026\nMTH 317H: Honors Linear Algebra\nMSU\n\n\nSpring 2026\nMTH 299: Introduction to Proofs\nMSU\n\n\nFall 2025\nMTH 818: Graduate Algebra I (qualifying exam course)\nMSU\n\n\nSpring 2024\nMTH 314: Matrix Algebra with Applications\nMSU\n\n\nFall 2023\nMTH 234: Multivariable Calculus\nMSU\n\n\nMonsoon 2021\nIntroduction to Proofs\nIISER Tirupati"
-  },
-  {
-    "objectID": "teaching.html#teaching-leadership",
-    "href": "teaching.html#teaching-leadership",
-    "title": "Teaching",
-    "section": "Teaching leadership",
-    "text": "Teaching leadership\n\nLead Teaching Assistant (Fall 2024, Spring 2025): observed classes and gave teaching feedback to 8 teaching assistants and 16 undergraduate learning assistants.\nPanelist, orientation for incoming Ph.D. students (Fall 2024)\nTutor and Supervisor, Mathematics Learning Center (6+ semesters)\nCertification in College Teaching, Michigan State University (expected Spring 2027)"
-  },
-  {
-    "objectID": "teaching.html#mentoring",
-    "href": "teaching.html#mentoring",
-    "title": "Teaching",
-    "section": "Mentoring",
-    "text": "Mentoring\nMSU Summer Topology Program (Summer 2026). I mentored two undergraduate projects:\n\nEuler characteristics and the Lefschetz fixed-point theorem in algebraic topology\nThe Gauss–Bonnet theorem and the classification of surfaces"
-  },
-  {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
+    "objectID": "drafts/teaching-philosophy.html#teaching-philosophy",
+    "href": "drafts/teaching-philosophy.html#teaching-philosophy",
+    "title": "Draft: teaching philosophy section for teaching/portfolio.qmd",
     "section": "",
-    "text": "Short notes on mathematics, computation, and things I’m learning. Posts coming soon.\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "I want students to experience mathematics as something they do, not only something they watch. In my classrooms, students predict, explore, and sometimes fail productively before they are asked to prove. Collaborative worksheets, explicit proof frameworks, and “grade the proof” exercises help make the habits of rigorous mathematical writing visible and learnable. Short exit tickets let me check understanding and adjust the next session.\nIf you are curious how these ideas shape my teaching, you can read my full teaching statement."
+  },
+  {
+    "objectID": "teaching/portfolio.html",
+    "href": "teaching/portfolio.html",
+    "title": "Teaching Portfolio",
+    "section": "",
+    "text": "Instructor of record for four courses at Michigan State University, from College Algebra to Multivariable Calculus, including an online course.\nTeaching assistant and recitation leader for six courses, including the graduate qualifying-exam course MTH 818 and, currently, MTH 317H: Honors Linear Algebra.\nLead Teaching Assistant (Fall 2024, Spring 2025): observed classes and gave feedback to 8 teaching assistants and 16 undergraduate learning assistants.\nMentor, MSU Summer Topology Program (Summer 2026): supervised two undergraduate projects in topology.\n\nThe full list of courses is on the Teaching page."
+  },
+  {
+    "objectID": "teaching/portfolio.html#teaching-at-a-glance",
+    "href": "teaching/portfolio.html#teaching-at-a-glance",
+    "title": "Teaching Portfolio",
+    "section": "",
+    "text": "Instructor of record for four courses at Michigan State University, from College Algebra to Multivariable Calculus, including an online course.\nTeaching assistant and recitation leader for six courses, including the graduate qualifying-exam course MTH 818 and, currently, MTH 317H: Honors Linear Algebra.\nLead Teaching Assistant (Fall 2024, Spring 2025): observed classes and gave feedback to 8 teaching assistants and 16 undergraduate learning assistants.\nMentor, MSU Summer Topology Program (Summer 2026): supervised two undergraduate projects in topology.\n\nThe full list of courses is on the Teaching page."
+  },
+  {
+    "objectID": "teaching/portfolio.html#cct",
+    "href": "teaching/portfolio.html#cct",
+    "title": "Teaching Portfolio",
+    "section": "Certification in College Teaching",
+    "text": "Certification in College Teaching\nI am completing the Certification in College Teaching at Michigan State University (expected Spring 2027). The program builds core competencies in college teaching through coursework, workshops, and mentored practice.\n\n1. Teaching college mathematics\n\nCoursework: MTHE 879, Teaching College Mathematics.\nTaught four courses as instructor of record, and wrote the recitation notes and worksheets for the proof-writing part of MTH 317H.\n\n\n\n2. Creating effective learning environments\n\nActive-learning recitations built around collaboration, scaffolded tasks, and frequent low-stakes feedback (worksheets, quizzes, exit tickets).\nAs Lead TA, observed classrooms and helped other instructors strengthen their learning environments.\nTutor and supervisor at the Mathematics Learning Center for 6+ semesters.\n\n\n\n3. Assessing student learning\n\nProof-validation tasks and exit tickets give quick, actionable evidence of understanding.\nSeparate student, answer-key, and instructor versions of materials support both practice and feedback.\n\n\n\n4. Incorporating technology in teaching\n\nTaught MTH 124: Survey of Calculus fully online (Summer 2023).\nCourse materials are typeset in LaTeX and published openly on this site.\n\n\n\n5. Understanding the university context\n\nCompleted the Certification in College Teaching Institute (May 2026). Topics included institutional contexts and missions, effective learning environments, assessment of student learning, and technology in teaching.\nPanelist at orientation for incoming Ph.D. students (Fall 2024).\nDepartment of Mathematics representative on the Council of Graduate Students (2025–2026)."
   }
 ]
