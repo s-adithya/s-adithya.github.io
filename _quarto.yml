@@ -44,9 +44,13 @@ website:
 format:
   html:
     theme:
-      light: cosmo
-      dark: darkly
+      light: [cosmo, theme.scss]
+      dark: [darkly, theme.scss]
     css: styles.css
+    grid:
+      body-width: 960px
+      margin-width: 260px
+      gutter-width: 2rem
     include-in-header:
       - text: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css">
     toc: true
