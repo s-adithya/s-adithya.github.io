@@ -2,35 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://s-adithya.github.io/teaching/portfolio.html</loc>
-    <lastmod>2026-10-15T22:43:59.780Z</lastmod>
+    <lastmod>2026-10-20T14:33:31.830Z</lastmod>
   </url>
   <url>
     <loc>https://s-adithya.github.io/teaching.html</loc>
     <lastmod>2026-10-15T17:48:08.602Z</lastmod>
   </url>
   <url>
-    <loc>https://s-adithya.github.io/research/dl-gl3.html</loc>
-    <lastmod>2026-10-15T17:16:34.277Z</lastmod>
+    <loc>https://s-adithya.github.io/resources.html</loc>
+    <lastmod>2026-10-20T14:33:37.797Z</lastmod>
   </url>
   <url>
-    <loc>https://s-adithya.github.io/photography.html</loc>
-    <lastmod>2026-10-15T17:17:30.634Z</lastmod>
-  </url>
-  <url>
-    <loc>https://s-adithya.github.io/notes.html</loc>
-    <lastmod>2026-10-15T17:09:19.820Z</lastmod>
-  </url>
-  <url>
-    <loc>https://s-adithya.github.io/cv.html</loc>
-    <lastmod>2026-10-15T17:08:57.876Z</lastmod>
+    <loc>https://s-adithya.github.io/research.html</loc>
+    <lastmod>2026-10-20T14:33:56.671Z</lastmod>
   </url>
   <url>
     <loc>https://s-adithya.github.io/index.html</loc>
     <lastmod>2026-10-15T21:59:45.985Z</lastmod>
   </url>
   <url>
-    <loc>https://s-adithya.github.io/research.html</loc>
-    <lastmod>2026-10-15T18:05:59.564Z</lastmod>
+    <loc>https://s-adithya.github.io/cv.html</loc>
+    <lastmod>2026-10-15T17:08:57.876Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-adithya.github.io/notes.html</loc>
+    <lastmod>2026-10-15T17:09:19.820Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-adithya.github.io/photography.html</loc>
+    <lastmod>2026-10-15T17:17:30.634Z</lastmod>
+  </url>
+  <url>
+    <loc>https://s-adithya.github.io/research/dl-gl3.html</loc>
+    <lastmod>2026-10-15T17:16:34.277Z</lastmod>
   </url>
   <url>
     <loc>https://s-adithya.github.io/talks.html</loc>

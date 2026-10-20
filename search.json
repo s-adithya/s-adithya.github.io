@@ -98,53 +98,74 @@
     "text": "Mentoring\nMSU Summer Topology Program (Summer 2026). I mentored two undergraduate projects:\n\nEuler characteristics and the Lefschetz fixed-point theorem in algebraic topology\nThe Gauss–Bonnet theorem and the classification of surfaces"
   },
   {
-    "objectID": "research/dl-gl3.html",
-    "href": "research/dl-gl3.html",
-    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "Status: under preparation. An arXiv link will be added here when the preprint is posted.\nSlides (AMS, Oct 2026) Poster (Utah, Aug 2026) Talks on this work"
+    "text": "A collection of links I find useful or often recommend."
   },
   {
-    "objectID": "research/dl-gl3.html#summary",
-    "href": "research/dl-gl3.html#summary",
-    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
-    "section": "Summary",
-    "text": "Summary\nDeligne and Lusztig defined a finite étale cover Y(w) \\to X(w) of varieties. It is attached to any connected reductive group \\mathbf{G} defined over a finite field \\mathbb{F}_q, with a Frobenius endomorphism F, and to a Weyl group element w \\in W.\nWe consider the ramified Galois covers \n\\overline{Y(w)} \\longrightarrow \\overline{X(w)}\n of the natural compactifications of these Deligne–Lusztig varieties. Our goal is to calculate the Lefschetz numbers for the action of the covering group on the coherent cohomology of the structure sheaf of \\overline{Y(w)}. The covering group is \\mathbf{T}^{wF}, the \\mathbb{F}_p-points of a torus.\nThese numbers determine the representation of \\mathbf{T}^{wF} on the alternating sum \n\\sum_i (-1)^i \\, H^i\\big(\\overline{Y(w)}, \\mathcal{O}_{\\overline{Y(w)}}\\big).\n The paper gives these Lefschetz numbers explicitly for Deligne–Lusztig surfaces, in the cases \\mathbf{G}^F = \\mathrm{GL}_3(\\mathbb{F}_p) and \\mathbf{G}^F = \\mathrm{U}_3(\\mathbb{F}_p)."
+    "objectID": "resources.html#for-undergraduates",
+    "href": "resources.html#for-undergraduates",
+    "title": "Resources",
+    "section": "For undergraduates",
+    "text": "For undergraduates\n\nLearning mathematics\n\n3Blue1Brown: visual explanations of mathematics, including a series on linear algebra\nKeith Conrad’s expository papers: clear, self-contained notes on algebra and number theory\nTerence Tao’s career advice: essays on studying and working in mathematics\nBook of Proof by Richard Hammack, Linear Algebra Done Right by Sheldon Axler, and Linear Algebra Done Wrong by Sergei Treil, all free online\nSpringer textbooks: many can be downloaded free through MSU Libraries; sign in with your MSU NetID\n\n\n\nResearch and summer programs\n\nNSF Research Experiences for Undergraduates (REU): paid summer research programs\nMathPrograms.org: applications for many REUs and graduate programs\nMSU Summer Topology Program: a summer program in topology for undergraduates\nBudapest Semesters in Mathematics: a semester of mathematics abroad\n\n\n\nAt MSU\n\nMSU Mathematics undergraduate program\nMathematics Learning Center: free drop-in tutoring for MTH courses\nMSU Food Bank\nCounseling and Psychiatric Services (CAPS)\nResource Center for Persons with Disabilities (RCPD)"
   },
   {
-    "objectID": "research/dl-gl3.html#method",
-    "href": "research/dl-gl3.html#method",
-    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
-    "section": "Method",
-    "text": "Method\nThe approach is to work étale-locally to resolve the singularities of \\overline{Y(w)}, and to construct a smooth model carrying an action of \\mathbf{T}^{wF} that extends the action on \\overline{Y(w)}. The local calculations lead to toric geometry. The Hirzebruch–Jung algorithm for minimal resolutions of toric surfaces then supplies what is needed to apply the Lefschetz–Riemann–Roch theorem. In both the split and the unitary case, the resulting Lefschetz numbers are explicit and nonzero."
+    "objectID": "resources.html#getting-around-east-lansing",
+    "href": "resources.html#getting-around-east-lansing",
+    "title": "Resources",
+    "section": "Getting around East Lansing",
+    "text": "Getting around East Lansing\n\nCATA: buses around campus, East Lansing, and Lansing\nMichigan Flyer: coach service between East Lansing, Ann Arbor, and Detroit Metro Airport (DTW)\nAmtrak: trains from East Lansing to Chicago\nCapital Region International Airport (LAN): the local airport in Lansing\nMSU Bikes: bike rentals, repairs, and parts on campus\nMSU campus map\nEast Lansing Public Library"
   },
   {
-    "objectID": "research/dl-gl3.html#background-geometric-galois-module-theory",
-    "href": "research/dl-gl3.html#background-geometric-galois-module-theory",
-    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
-    "section": "Background: geometric Galois module theory",
-    "text": "Background: geometric Galois module theory\nGeometric Galois module theory studies how a finite group acting on an algebraic variety or scheme gives module structures on its cohomological and arithmetic invariants. If a finite group G acts on a variety X, then G acts naturally on cohomology groups such as H^i(X, \\mathcal{F}). These groups can then be studied as modules over the group ring k[G], or over the corresponding integral group rings in arithmetic settings.\nA central problem is to determine these module structures, and their equivariant Euler characteristics, for a Galois cover X \\to X/G. This extends classical Galois module theory to higher dimensions. In the classical theory, one studies rings of integers in finite Galois extensions of local or global fields as modules over group rings.\nThe subject draws on arithmetic geometry, algebraic geometry, representation theory, and algebraic K-theory. Ramification and fixed-point data play a central role in the structure of the resulting Galois modules."
+    "objectID": "resources.html#carnatic-music",
+    "href": "resources.html#carnatic-music",
+    "title": "Resources",
+    "section": "Carnatic music",
+    "text": "Carnatic music\nSome performances by T. M. Krishna that I enjoy:\n\nRagam Nalinakanthi\nRagam Khamas\nBhaja Govindam, with Vikku Vinayakram"
   },
   {
-    "objectID": "research/dl-gl3.html#talks",
-    "href": "research/dl-gl3.html#talks",
-    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
-    "section": "Talks",
-    "text": "Talks\n\nGroup, Lie and Number Theory Seminar, University of Michigan · November 2026 (scheduled)\nPoster, AGNES, Brown University · November 21, 2026 (scheduled)\nGraduate Student Lecture Series (UBDoG), University at Buffalo · October 2026 (scheduled)\nAMS Special Session on Springer Fibers, Harmonic Analysis, and Arithmetic, George Washington University · October 4, 2026 · slides\nAutomorphic Forms and Representation Theory Seminar, Purdue University · September 2026\nPoster, The Australian Direction, University of Utah · August 11, 2026 · poster\nGTA Philly, Temple University · May 30, 2026"
-  },
-  {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Short notes on mathematics, computation, and things I’m learning. Posts coming soon.\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "My research focuses on problems in arithmetic geometry and representation theory. My current interests are:"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Download PDF"
+    "objectID": "research.html#dissertation",
+    "href": "research.html#dissertation",
+    "title": "Research",
+    "section": "Dissertation",
+    "text": "Dissertation\nGalois module structure of Deligne–Lusztig varieties (in progress)\nAdvisor: Georgios Pappas, Michigan State University"
+  },
+  {
+    "objectID": "research.html#research-articles",
+    "href": "research.html#research-articles",
+    "title": "Research",
+    "section": "Research articles",
+    "text": "Research articles\n\nGalois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3\nUnder preparation · Summary · Slides · Poster\nThe paper computes Lefschetz numbers for the torus action on the coherent cohomology of compactified Deligne–Lusztig surfaces for \\mathrm{GL}_3(\\mathbb{F}_p) and \\mathrm{U}_3(\\mathbb{F}_p)."
+  },
+  {
+    "objectID": "research.html#masters-thesis",
+    "href": "research.html#masters-thesis",
+    "title": "Research",
+    "section": "Master’s thesis",
+    "text": "Master’s thesis\n\nClass field theory\n2022 · IISER Tirupati · Advisor: D. S. Nagaraj · Thesis (PDF) · Defense slides"
+  },
+  {
+    "objectID": "research.html#projects",
+    "href": "research.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\n\nArithmetic statistics of p-torsion in class groups of quartic number fields\n2026–present · Arithmetic Geometry at UNT 2, University of North Texas · Sameera Vemulapalli’s project group · Repository\nWe study p-torsion in class groups of quartic number fields that admit an integral basis of the form 1, x, y, xy, in connection with Bhargava’s parametrizations of quartic rings. The repository has some Magma code and preliminary analysis.\n\n\nEfficient computation of the Weil pairing for Drinfeld modules\n2026–present · Rethinking Number Theory (online, June 22–July 3, 2026) · Antoine Leudière’s project group\nWe’re working toward explicit computation of Weil pairings for Drinfeld modules by implementing pairing algorithms in SageMath and other open-source software.\n\n\nWho bears the congestion price?\nSummer 2026 · Erdős Institute Data Science Boot Camp · Repository\nOn January 5, 2025, New York became the first US city to charge vehicles for entering a defined zone: the Manhattan Central Business District south of 60th Street. Using public TLC trip records (about 37M Yellow taxi trips and about 202M Uber/Lyft trips, February–June 2024 compared with the same months of 2025), we ask who bears this fee and whether it reduced trips.\n\nThe burden is uneven, and the finding is stable. A flat per-trip fee is a much larger share of short, low-cost trips, which are concentrated in the dense Manhattan core, than of long airport trips. The zone ranking stays stable across the tested denominator floors, giving a reusable, reproducible burden metric (DS_z).\nThe volume models show suggestive negative patterns. Three regression-with-controls designs compare burden, exposure, and vehicle groups. A 2023→2024 no-fee placebo and sensitivity checks limit a direct fee-caused interpretation."
+  },
+  {
+    "objectID": "research.html#seminars",
+    "href": "research.html#seminars",
+    "title": "Research",
+    "section": "Seminars",
+    "text": "Seminars\n\nCo-organizer, Student Algebra Seminar, Michigan State University (Fall 2024, Spring 2025)\nParticipant at MSU: Agentic AI Seminar (Fall 2026), Lean Seminar (Spring and Fall 2026), Étale Cohomology Learning Seminar (2025–26), Class Number One Problem Learning Seminar (Spring 2025), Class Field Theory Learning Seminar (Summer 2023)"
   },
   {
     "objectID": "index.html",
@@ -182,46 +203,53 @@
     "text": "Education\n\n\n\nPh.D. in Mathematics, Michigan State University · expected June 2027\nAdvisor: Prof. Georgios Pappas\n\n\n\n\n\nB.S.–M.S. Dual Degree in Mathematics, IISER Tirupati, India · 2022\nAdvisor: Prof. D. S. Nagaraj · Master’s thesis: Class field theory"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "My research focuses on problems in arithmetic geometry and representation theory. My current interests are:"
+    "text": "Download PDF"
   },
   {
-    "objectID": "research.html#dissertation",
-    "href": "research.html#dissertation",
-    "title": "Research",
-    "section": "Dissertation",
-    "text": "Dissertation\nGalois module structure of Deligne–Lusztig varieties (in progress)\nAdvisor: Georgios Pappas, Michigan State University"
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Short notes on mathematics, computation, and things I’m learning. Posts coming soon.\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "research.html#research-articles",
-    "href": "research.html#research-articles",
-    "title": "Research",
-    "section": "Research articles",
-    "text": "Research articles\n\n\n\n\n\n\nGalois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3\nUnder preparation. The paper computes Lefschetz numbers for the torus action on the coherent cohomology of compactified Deligne–Lusztig surfaces for \\mathrm{GL}_3(\\mathbb{F}_p) and \\mathrm{U}_3(\\mathbb{F}_p).\nSummary · Slides · Poster"
+    "objectID": "research/dl-gl3.html",
+    "href": "research/dl-gl3.html",
+    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "section": "",
+    "text": "Status: under preparation. An arXiv link will be added here when the preprint is posted.\nSlides (AMS, Oct 2026) Poster (Utah, Aug 2026) Talks on this work"
   },
   {
-    "objectID": "research.html#masters-thesis",
-    "href": "research.html#masters-thesis",
-    "title": "Research",
-    "section": "Master’s thesis",
-    "text": "Master’s thesis\nClass field theory, IISER Tirupati, 2022. Advisor: D. S. Nagaraj\nThesis (PDF) · Defense slides"
+    "objectID": "research/dl-gl3.html#summary",
+    "href": "research/dl-gl3.html#summary",
+    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "section": "Summary",
+    "text": "Summary\nDeligne and Lusztig defined a finite étale cover Y(w) \\to X(w) of varieties. It is attached to any connected reductive group \\mathbf{G} defined over a finite field \\mathbb{F}_q, with a Frobenius endomorphism F, and to a Weyl group element w \\in W.\nWe consider the ramified Galois covers \n\\overline{Y(w)} \\longrightarrow \\overline{X(w)}\n of the natural compactifications of these Deligne–Lusztig varieties. Our goal is to calculate the Lefschetz numbers for the action of the covering group on the coherent cohomology of the structure sheaf of \\overline{Y(w)}. The covering group is \\mathbf{T}^{wF}, the \\mathbb{F}_p-points of a torus.\nThese numbers determine the representation of \\mathbf{T}^{wF} on the alternating sum \n\\sum_i (-1)^i \\, H^i\\big(\\overline{Y(w)}, \\mathcal{O}_{\\overline{Y(w)}}\\big).\n The paper gives these Lefschetz numbers explicitly for Deligne–Lusztig surfaces, in the cases \\mathbf{G}^F = \\mathrm{GL}_3(\\mathbb{F}_p) and \\mathbf{G}^F = \\mathrm{U}_3(\\mathbb{F}_p)."
   },
   {
-    "objectID": "research.html#projects",
-    "href": "research.html#projects",
-    "title": "Research",
-    "section": "Projects",
-    "text": "Projects\n\nArithmetic statistics of p-torsion in class groups of quartic number fields\n2026–present\nI’m a participant in Sameera Vemulapalli’s project group at Arithmetic Geometry at UNT 2 (University of North Texas, August 3–7, 2026). We study p-torsion in class groups of quartic number fields that admit an integral basis of the form 1, x, y, xy, in connection with Bhargava’s parametrizations of quartic rings.\nSome Magma code and preliminary analysis are in the project repository.\n\n\nEfficient computation of the Weil pairing for Drinfeld modules\n2026–present\nI’m a participant in Antoine Leudière’s project group at Rethinking Number Theory (online, June 22–July 3, 2026). We’re working toward explicit computation of Weil pairings for Drinfeld modules by implementing pairing algorithms in SageMath and other open-source software.\n\n\nWho Bears the Congestion Price?\nErdős Institute Data Science Boot Camp, Summer 2026\nOn January 5, 2025, New York became the first US city to charge vehicles for entering a defined zone: the Manhattan Central Business District south of 60th Street. Using public TLC trip records (about 37M Yellow taxi trips and about 202M Uber/Lyft trips, February–June 2024 compared with the same months of 2025), we ask who bears this fee and whether it reduced trips.\n\nThe burden is uneven, and the finding is stable. A flat per-trip fee is a much larger share of short, low-cost trips, which are concentrated in the dense Manhattan core, than of long airport trips. The zone ranking stays stable across the tested denominator floors, giving a reusable, reproducible burden metric (DS_z).\nThe volume models show suggestive negative patterns. Three regression-with-controls designs compare burden, exposure, and vehicle groups. A 2023→2024 no-fee placebo and sensitivity checks limit a direct fee-caused interpretation.\n\nProject repository"
+    "objectID": "research/dl-gl3.html#method",
+    "href": "research/dl-gl3.html#method",
+    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "section": "Method",
+    "text": "Method\nThe approach is to work étale-locally to resolve the singularities of \\overline{Y(w)}, and to construct a smooth model carrying an action of \\mathbf{T}^{wF} that extends the action on \\overline{Y(w)}. The local calculations lead to toric geometry. The Hirzebruch–Jung algorithm for minimal resolutions of toric surfaces then supplies what is needed to apply the Lefschetz–Riemann–Roch theorem. In both the split and the unitary case, the resulting Lefschetz numbers are explicit and nonzero."
   },
   {
-    "objectID": "research.html#seminars",
-    "href": "research.html#seminars",
-    "title": "Research",
-    "section": "Seminars",
-    "text": "Seminars\n\nCo-organizer, Student Algebra Seminar, Michigan State University (Fall 2024, Spring 2025)\nParticipant at MSU: Agentic AI Seminar (Fall 2026), Lean Seminar (Spring and Fall 2026), Étale Cohomology Learning Seminar (2025–26), Class Number One Problem Learning Seminar (Spring 2025), Class Field Theory Learning Seminar (Summer 2023)"
+    "objectID": "research/dl-gl3.html#background-geometric-galois-module-theory",
+    "href": "research/dl-gl3.html#background-geometric-galois-module-theory",
+    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "section": "Background: geometric Galois module theory",
+    "text": "Background: geometric Galois module theory\nGeometric Galois module theory studies how a finite group acting on an algebraic variety or scheme gives module structures on its cohomological and arithmetic invariants. If a finite group G acts on a variety X, then G acts naturally on cohomology groups such as H^i(X, \\mathcal{F}). These groups can then be studied as modules over the group ring k[G], or over the corresponding integral group rings in arithmetic settings.\nA central problem is to determine these module structures, and their equivariant Euler characteristics, for a Galois cover X \\to X/G. This extends classical Galois module theory to higher dimensions. In the classical theory, one studies rings of integers in finite Galois extensions of local or global fields as modules over group rings.\nThe subject draws on arithmetic geometry, algebraic geometry, representation theory, and algebraic K-theory. Ramification and fixed-point data play a central role in the structure of the resulting Galois modules."
+  },
+  {
+    "objectID": "research/dl-gl3.html#talks",
+    "href": "research/dl-gl3.html#talks",
+    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "section": "Talks",
+    "text": "Talks\n\nGroup, Lie and Number Theory Seminar, University of Michigan · November 2026 (scheduled)\nPoster, AGNES, Brown University · November 21, 2026 (scheduled)\nGraduate Student Lecture Series (UBDoG), University at Buffalo · October 2026 (scheduled)\nAMS Special Session on Springer Fibers, Harmonic Analysis, and Arithmetic, George Washington University · October 4, 2026 · slides\nAutomorphic Forms and Representation Theory Seminar, Purdue University · September 2026\nPoster, The Australian Direction, University of Utah · August 11, 2026 · poster\nGTA Philly, Temple University · May 30, 2026"
   },
   {
     "objectID": "talks.html",
