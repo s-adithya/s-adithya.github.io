@@ -17,42 +17,49 @@ Advisor: Georgios Pappas, Michigan State University
 
 ## Research articles
 
-::: {.callout-tip appearance="simple" icon=false}
-**[Galois module structure of Deligne–Lusztig varieties for $\mathbf{G} = \mathrm{GL}_3$](research/dl-gl3.qmd)**\
-*Under preparation.* The paper computes Lefschetz numbers for the torus action on the
-coherent cohomology of compactified Deligne–Lusztig surfaces for
-$\mathrm{GL}_3(\mathbb{F}_p)$ and $\mathrm{U}_3(\mathbb{F}_p)$.\
-[Summary](research/dl-gl3.qmd) · [Slides](files/dl-gl3-slides.pdf) · [Poster](files/dl-gl3-poster.pdf)
+::: {.entry}
+### [Galois module structure of Deligne–Lusztig varieties for $\mathbf{G} = \mathrm{GL}_3$](research/dl-gl3.qmd)
+
+[Under preparation · [Summary](research/dl-gl3.qmd) · [Slides](files/dl-gl3-slides.pdf) · [Poster](files/dl-gl3-poster.pdf)]{.entry-meta}
+
+The paper computes Lefschetz numbers for the torus action on the coherent cohomology of
+compactified Deligne–Lusztig surfaces for $\mathrm{GL}_3(\mathbb{F}_p)$ and
+$\mathrm{U}_3(\mathbb{F}_p)$.
 :::
 
 ## Master's thesis
 
-**Class field theory**, IISER Tirupati, 2022. Advisor: D. S. Nagaraj\
-[Thesis (PDF)](files/ms-thesis-class-field-theory.pdf) · [Defense slides](files/ms-thesis-defense-slides.pdf)
+::: {.entry}
+### Class field theory
+
+[2022 · IISER Tirupati · Advisor: D. S. Nagaraj · [Thesis (PDF)](files/ms-thesis-class-field-theory.pdf) · [Defense slides](files/ms-thesis-defense-slides.pdf)]{.entry-meta}
+:::
 
 ## Projects
 
+::: {.entry}
 ### Arithmetic statistics of $p$-torsion in class groups of quartic number fields
-*2026–present*
 
-I'm a participant in Sameera Vemulapalli's project group at *Arithmetic Geometry
-at UNT 2* (University of North Texas, August 3–7, 2026). We study $p$-torsion in
-class groups of quartic number fields that admit an integral basis of the form
-$1, x, y, xy$, in connection with Bhargava's parametrizations of quartic rings.
+[2026–present · *Arithmetic Geometry at UNT 2*, University of North Texas · Sameera Vemulapalli's project group · [Repository](https://github.com/s-adithya/agunt2_project)]{.entry-meta}
 
-Some Magma code and preliminary analysis are in the
-[project repository](https://github.com/s-adithya/agunt2_project).
+We study $p$-torsion in class groups of quartic number fields that admit an integral
+basis of the form $1, x, y, xy$, in connection with Bhargava's parametrizations of
+quartic rings. The repository has some Magma code and preliminary analysis.
+:::
 
+::: {.entry}
 ### Efficient computation of the Weil pairing for Drinfeld modules
-*2026–present*
 
-I'm a participant in Antoine Leudière's project group at *Rethinking Number
-Theory* (online, June 22–July 3, 2026). We're working toward explicit computation
-of Weil pairings for Drinfeld modules by implementing pairing algorithms in
-SageMath and other open-source software.
+[2026–present · *Rethinking Number Theory* (online, June 22–July 3, 2026) · Antoine Leudière's project group]{.entry-meta}
 
-### Who Bears the Congestion Price?
-*Erdős Institute Data Science Boot Camp, Summer 2026*
+We're working toward explicit computation of Weil pairings for Drinfeld modules by
+implementing pairing algorithms in SageMath and other open-source software.
+:::
+
+::: {.entry}
+### Who bears the congestion price?
+
+[Summer 2026 · Erdős Institute Data Science Boot Camp · [Repository](https://github.com/Erdos-Projects/summer26-congestion-pricing)]{.entry-meta}
 
 On January 5, 2025, New York became the first US city to charge vehicles for entering
 a defined zone: the Manhattan Central Business District south of 60th Street. Using
@@ -68,8 +75,7 @@ and whether it reduced trips.
   regression-with-controls designs compare burden, exposure, and vehicle groups. A
   2023→2024 no-fee placebo and sensitivity checks limit a direct fee-caused
   interpretation.
-
-[Project repository](https://github.com/Erdos-Projects/summer26-congestion-pricing)
+:::
 
 ## Seminars
 

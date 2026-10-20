@@ -1,0 +1,63 @@
+---
+title: "Resources"
+toc: true
+---
+
+A collection of links I find useful or often recommend.
+
+## For undergraduates
+
+### Learning mathematics
+
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown): visual explanations of
+  mathematics, including a series on linear algebra
+- [Keith Conrad's expository papers](https://kconrad.math.uconn.edu/blurbs/): clear,
+  self-contained notes on algebra and number theory
+- [Terence Tao's career advice](https://terrytao.wordpress.com/career-advice/): essays on
+  studying and working in mathematics
+- [*Book of Proof*](https://richardhammack.github.io/BookOfProof/) by Richard Hammack,
+  [*Linear Algebra Done Right*](https://linear.axler.net) by Sheldon Axler, and
+  [*Linear Algebra Done Wrong*](https://www.math.brown.edu/streil/papers/LADW/LADW.html)
+  by Sergei Treil, all free online
+- [Springer textbooks](https://link.springer.com): many can be downloaded free through
+  [MSU Libraries](https://lib.msu.edu); sign in with your MSU NetID
+
+### Research and summer programs
+
+- [NSF Research Experiences for Undergraduates (REU)](https://new.nsf.gov/funding/opportunities/research-experiences-undergraduates-reu):
+  paid summer research programs
+- [MathPrograms.org](https://www.mathprograms.org): applications for many REUs and
+  graduate programs
+- [MSU Summer Topology Program](https://sites.google.com/msu.edu/msutopologyrtg/activities/summer-topology-program-2026): a summer program in topology for
+  undergraduates
+- [Budapest Semesters in Mathematics](https://www.budapestsemesters.com): a semester of
+  mathematics abroad
+
+### At MSU
+
+- [MSU Mathematics undergraduate program](https://math.msu.edu/undergraduate)
+- [Mathematics Learning Center](https://math.msu.edu/mlc): free drop-in tutoring for
+  MTH courses
+- [MSU Food Bank](https://foodbank.msu.edu)
+- [Counseling and Psychiatric Services (CAPS)](https://caps.msu.edu)
+- [Resource Center for Persons with Disabilities (RCPD)](https://rcpd.msu.edu)
+
+## Getting around East Lansing
+
+- [CATA](https://www.cata.org): buses around campus, East Lansing, and Lansing
+- [Michigan Flyer](https://www.michiganflyer.com): coach service between East Lansing,
+  Ann Arbor, and Detroit Metro Airport (DTW)
+- [Amtrak](https://www.amtrak.com/home): trains from East Lansing to Chicago
+- [Capital Region International Airport (LAN)](https://www.flylansing.com): the local
+  airport in Lansing
+- [MSU Bikes](https://bikes.msu.edu): bike rentals, repairs, and parts on campus
+- [MSU campus map](https://maps.msu.edu)
+- [East Lansing Public Library](https://www.elpl.org)
+
+## Carnatic music
+
+Some performances by T. M. Krishna that I enjoy:
+
+- [Ragam Nalinakanthi](https://www.youtube.com/watch?v=5yZEsJDJ9yc)
+- [Ragam Khamas](https://www.youtube.com/watch?v=7A0YSVf-z3c)
+- [*Bhaja Govindam*, with Vikku Vinayakram](https://www.youtube.com/watch?v=4xJtWPYj4lg)

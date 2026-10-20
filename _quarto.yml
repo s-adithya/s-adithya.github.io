@@ -28,6 +28,8 @@ website:
         text: Notes
       - href: photography.qmd
         text: Photography
+      - href: resources.qmd
+        text: Resources
       - href: cv.qmd
         text: CV
     right:

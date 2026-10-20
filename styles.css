@@ -68,3 +68,17 @@
 a.gold-link { color: #b07800; text-decoration: none; font-weight: 600; }
 a.gold-link:hover { text-decoration: underline; }
 .quarto-dark a.gold-link { color: #f2b632; }
+
+/* Style B entries: one metadata line with · separators, thin divider between entries */
+.entry { padding: 1.1rem 0; }
+.entry + .entry { border-top: 1px solid var(--bs-border-color); }
+.entry > h3 { margin-top: 0; margin-bottom: .3rem; }
+.entry-meta {
+  display: block;
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: .85rem;
+  color: var(--bs-secondary-color);
+  margin-bottom: .6rem;
+}
+.entry-meta a { color: var(--bs-link-color); }
+.entry p:last-child, .entry ul:last-child { margin-bottom: 0; }

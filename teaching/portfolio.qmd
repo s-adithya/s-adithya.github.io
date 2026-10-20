@@ -143,7 +143,7 @@ A few comments from end-of-semester student surveys:
 
 - **Lead Teaching Assistant** (Fall 2024, Spring 2025): observed classrooms and gave
   teaching feedback to 8 teaching assistants and 16 undergraduate learning assistants.
-- **Mentor, MSU Summer Topology Program** (Summer 2026): supervised two undergraduate
+- **Mentor, [MSU Summer Topology Program](https://sites.google.com/msu.edu/msutopologyrtg/activities/summer-topology-program-2026)** (Summer 2026): supervised two undergraduate
   projects, one on Euler characteristics and the Lefschetz fixed-point theorem, and one
   on the Gauss–Bonnet theorem and the classification of surfaces.
 - **Tutor and supervisor, Mathematics Learning Center** (6+ semesters).
