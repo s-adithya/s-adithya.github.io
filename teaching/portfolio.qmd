@@ -63,12 +63,15 @@ also keep listening to what students tell me about their learning, and adjust.
 
 I use technology where it serves learning: live writing on an iPad projected to every
 table, recorded videos, Zoom options for bad-weather days, and Python assignments for
-the computational side of linear algebra. In MTH 317H recitations I give students
-poorly written AI-generated proofs and ask them to find unjustified assumptions,
-missing steps, and errors that are easy to overlook when an explanation sounds
-convincing, and to say what the AI did well. The aim is for students to understand
-both what AI can and cannot do, and to gain confidence in judging an argument for
-themselves. AI should not do their homework.
+the computational side of linear algebra.
+
+Generative AI makes it more important to design activities that reveal how students
+think. Where course policies permit, I would invite students to critique an
+AI-generated solution: find the unsupported steps and explain how to fix them. They
+might also use AI to suggest examples to investigate, while checking every claim
+against course materials. I would make expectations for acknowledging AI help
+explicit and offer equivalent activities that do not need AI. Written reasoning,
+discussion, and reflection would remain at the center of how I assess understanding.
 
 ## Teaching in different settings {#contexts}
 
@@ -148,7 +151,7 @@ A few comments from end-of-semester student surveys:
   on the Gauss–Bonnet theorem and the classification of surfaces.
 - **Tutor and supervisor, Mathematics Learning Center** (6+ semesters).
 - **Panelist,** orientation for incoming Ph.D. students (Fall 2024).
-- **Outreach:** math circles, and science and mathematics camps for girls.
+- **Outreach:** math circles, and science and mathematics camps for schoolchildren.
 
 ## Professional development {#cct}
 
