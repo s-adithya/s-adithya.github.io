@@ -15,8 +15,8 @@ The course has two lecture sections that meet on Tuesdays and Thursdays and cove
 linear algebra. I lead the **Monday recitations**. For roughly the first half of the
 semester, recitation is an accelerated introduction to proof writing (essentially the
 content of MTH 299), taught through notes and collaborative worksheets. Later
-recitations practice the linear algebra from lecture. Many recitations start with a
-short quiz.
+recitations practice the linear algebra from lecture. Most recitations begin with a
+10-minute quiz.
 
 **Learning objectives**
 
@@ -46,6 +46,10 @@ and grades, is on D2L.
 
 ## Recitation materials
 
+Weeks 1–6 use my original notes and worksheets. Starting with Week 7 (October 12),
+the worksheets follow a redesigned format built around problem posing, described
+[below](#how-recitations-work). Weeks in the new format are marked *redesigned format*.
+
 | Week | Date | Topic | Materials |
 |:----:|------|-------|-----------|
 | 1 | Aug 31 | Intro to proofs: sets | [Notes](../files/courses/mth317h-fs26/week01-sets-notes.pdf) |
@@ -54,8 +58,8 @@ and grades, is on D2L.
 | 4 | Sep 21 | Proof by contradiction and contrapositive | [Notes](../files/courses/mth317h-fs26/week04-contradiction-contrapositive-notes.pdf) |
 | 5 | Sep 28 | Contradiction and contrapositive (cont.); introduction to functions | [Notes](../files/courses/mth317h-fs26/week05-contrapositive-contradiction-notes.pdf) · [Worksheet](../files/courses/mth317h-fs26/week05-worksheet.pdf) · [Solutions](../files/courses/mth317h-fs26/week05-worksheet-solutions.pdf) · [Extra practice: injective and surjective](../files/courses/mth317h-fs26/week05-functions-injective-surjective.pdf) ([solutions](../files/courses/mth317h-fs26/week05-functions-injective-surjective-solutions.pdf)) |
 | 6 | Oct 5 | Bijections, inverses, and cardinality | [Notes](../files/courses/mth317h-fs26/week06-bijections-notes.pdf) · [Worksheet](../files/courses/mth317h-fs26/week06-worksheet.pdf) · [Solutions](../files/courses/mth317h-fs26/week06-worksheet-solutions.pdf) |
-| 7 | Oct 12 | Review: proofs about linear maps (existence, uniqueness) | [Packet](../files/courses/mth317h-fs26/week07-linear-maps-packet.pdf) · [Answer key](../files/courses/mth317h-fs26/week07-linear-maps-key.pdf) |
-| 8 | Oct 19 | Exam 1 review | |
+| 7 | Oct 12 | Review: proofs about linear maps (existence, uniqueness) [· redesigned format]{.fmt-tag} | [Packet](../files/courses/mth317h-fs26/week07-linear-maps-packet.pdf) · [Answer key](../files/courses/mth317h-fs26/week07-linear-maps-key.pdf) |
+| 8 | Oct 19 | Exam 1 review: bases and linear maps (span, uniqueness, dimension) [· redesigned format]{.fmt-tag} | [Worksheet](../files/courses/mth317h-fs26/week08-bases-linear-maps-worksheet.pdf) · [Answer key](../files/courses/mth317h-fs26/week08-bases-linear-maps-key.pdf) |
 | 9 | Oct 26 | *Fall break* | |
 | 10 | Nov 2 | Proof by induction | |
 | 11 | Nov 9 | Systems of linear equations: practice | |
@@ -66,16 +70,28 @@ and grades, is on D2L.
 
 : {.striped .hover}
 
-## How recitations work
+## How recitations work {#how-recitations-work}
 
-Each session aims to have students *predict, explore, and sometimes fail productively*
-before they prove, and then consolidate what they found in short notes. A typical
-packet includes:
+Most recitations begin with a 10-minute quiz. The rest of the session is spent working
+on the week's worksheet, individually or in small groups.
+
+**The redesigned worksheets (from Week 7, October 12).** Inspired by Professor Jinfa
+Cai's talk in my mathematics education class, I redesigned the worksheets around
+problem posing: students change hypotheses, formulate their own questions, and
+exchange problems with classmates. Students keep their worksheets, which include
+definitions and notes they can study from, and hand in only a short exit ticket at
+the end of each recitation. Since making these changes, I have seen student
+participation increase, and students have responded positively to the new format.
+
+A typical redesigned packet includes:
 
 - a **warm-up** that surfaces the key idea, such as sorting maps by whether they are
   injective or surjective;
 - **proof frameworks**: the first and last lines of a proof of "injective",
   "surjective", "not injective", and so on;
 - **investigations** that turn computed examples into conjectures;
+- **problem-posing tasks**, where students change a hypothesis or write their own
+  question and trade it with a classmate;
 - **"grade the proof"** tasks, where students find and repair common logical errors;
-- an **exit ticket** to check understanding at the end of class.
+- an **exit ticket**, the only part handed in, to check understanding at the end of
+  class.
