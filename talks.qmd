@@ -14,11 +14,14 @@ title: "Talks"
 - Graduate Student Conference in Algebra, Geometry, and Topology (GTA Philly),
   Temple University · May 30, 2026
 
-## Contributed talks
+## Expository talks
 
 All at the Student Algebra Seminar, Michigan State University, unless noted.
 
 - *Galois module theory* · Fall 2026
+- *Fundamental groups and covering spaces* ·
+  [MSU Summer Topology Program](https://sites.google.com/msu.edu/msutopologyrtg/activities/summer-topology-program-2026) · May 11, 2026 ·
+  [slides](files/fundamental-groups-covering-spaces-slides.pdf)
 - *Deligne–Lusztig varieties* · October 2025
 - *Non-split Cartan subgroups and the associated modular curves* · Learning Seminar: The Class
   Number One Problem d'après Serre · Spring 2025
