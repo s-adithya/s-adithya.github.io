@@ -82,3 +82,20 @@ a.gold-link:hover { text-decoration: underline; }
 }
 .entry-meta a { color: var(--bs-link-color); }
 .entry p:last-child, .entry ul:last-child { margin-bottom: 0; }
+
+/* Small muted label in tables, e.g. "redesigned format" */
+.fmt-tag {
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: .78em;
+  font-style: italic;
+  color: var(--bs-secondary-color);
+}
+
+/* On small screens, wide tables scroll inside their own box instead of the page */
+@media (max-width: 767.98px) {
+  main table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
