@@ -9,9 +9,25 @@ toc: false
      Format: ![Caption](images/photos/file.jpg){group="photos" fig-alt="Description"} -->
 
 ::: {.photo-grid}
+
 ![](images/photos/mountains-clouds.jpg){group="photos" fig-alt="Snow-capped mountain range above a layer of low cloud, with evergreen trees in the foreground"}
 
 ![](images/photos/IMG_3550.jpg){group="photos" fig-alt="Looking straight up from a rocky gorge at a sky of rippled clouds, framed by evergreen and autumn trees"}
 
 ![](images/photos/IMG_3747.jpg){group="photos" fig-alt="A maple tree turning red and orange against a clear blue sky, beside an empty parking lot"}
+
+![](images/photos/alpine-lake-snow-peak.jpg){group="photos" fig-alt="A still alpine lake reflecting a jagged, snow-streaked peak, framed by tall evergreens"}
+
+![](images/photos/mountain-lake-valley.jpg){group="photos" fig-alt="A long blue lake winding between forested mountains under a sky full of white clouds"}
+
+![](images/photos/canyon-waterfall-rainbow.jpg){group="photos" fig-alt="A waterfall plunging into a deep yellow-walled canyon, with a rainbow in its spray"}
+
+![](images/photos/mountain-river-reflection.jpg){group="photos" fig-alt="A granite mountain range reflected in a calm river bend lined with green trees"}
+
+![](images/photos/autumn-river-waterfall.jpg){group="photos" fig-alt="A wide river flowing past autumn forest in red, orange and gold, with a waterfall on the right"}
+
+![](images/photos/lakeside-tree-picnic-table.jpg){group="photos" fig-alt="A lone tree and picnic table on a lakeside lawn under a blue evening sky with soft clouds"}
+
+![](images/photos/meadow-bench.jpg){group="photos" fig-alt="A wooden bench in a sunlit grassy clearing surrounded by young trees and tall grass"}
+
 :::
