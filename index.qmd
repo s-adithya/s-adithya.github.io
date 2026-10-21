@@ -35,8 +35,8 @@ varieties; see my
 Outside mathematics, I enjoy Carnatic and Hindustani classical music, playing the
 bansuri (Indian bamboo flute), badminton, literature, and social justice advocacy.
 
-::: {.callout-important appearance="simple" icon=false}
-I am on the academic job market for positions starting **Fall 2027**.
+::: {.job-market}
+I am on the academic job market for positions starting Fall 2027.
 :::
 
 ## Research interests
