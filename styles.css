@@ -99,3 +99,18 @@ a.gold-link:hover { text-decoration: underline; }
     -webkit-overflow-scrolling: touch;
   }
 }
+
+/* Job-market line on the home page: larger bold sans-serif, thin gold rule, no box */
+.job-market {
+  border-left: 3px solid #f2a900;
+  padding: .15rem 0 .15rem .85rem;
+  margin: 1.25rem 0;
+}
+.job-market p {
+  margin: 0;
+  font-family: "Inter", system-ui, sans-serif;
+  font-weight: 600;
+  font-size: 1.15rem;
+  line-height: 1.4;
+  color: var(--bs-body-color);
+}
