@@ -22,15 +22,23 @@ Advisor: Georgios Pappas, Michigan State University
 
 [Draft, October 2026 · [Draft (PDF)](files/dl-gl3-draft.pdf) · [Summary](research/dl-gl3.qmd) · [Slides](files/dl-gl3-slides.pdf) · [Poster](files/dl-gl3-poster.pdf)]{.entry-meta}
 
+::: {.entry-with-figure}
+::: {.entry-text}
 The paper computes Lefschetz numbers for the torus action on the coherent cohomology of
 compactified Deligne–Lusztig surfaces for $\mathrm{GL}_3(\mathbb{F}_p)$ and
 $\mathrm{U}_3(\mathbb{F}_p)$.
 :::
 
+::: {.entry-figure}
+[![Resolutions in the split case $\mathrm{GL}_3(\mathbb{F}_p)$ (left) and the non-split case $\mathrm{U}_3(\mathbb{F}_p)$ (right).](images/research/dl-gl3-resolutions.svg){fig-alt="Diagram of the resolutions of the compactified Deligne–Lusztig surfaces: on the left, the split case for GL3 over F_p, with the blown-up projective plane and its exceptional divisors; on the right, the non-split unitary case, with the ruled surface over the curve X-bar of s2."}](research/dl-gl3.qmd#method)
+:::
+:::
+:::
+
 ## Master's thesis
 
 ::: {.entry}
-### Class field theory
+### Class field theory (“Study of finite abelian extensions of $\mathbb{Q}$”)
 
 [2022 · IISER Tirupati · Advisor: D. S. Nagaraj · [Thesis (PDF)](files/ms-thesis-class-field-theory.pdf) · [Defense slides](files/ms-thesis-defense-slides.pdf)]{.entry-meta}
 :::

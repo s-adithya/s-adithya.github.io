@@ -114,3 +114,20 @@ a.gold-link:hover { text-decoration: underline; }
   line-height: 1.4;
   color: var(--bs-body-color);
 }
+
+/* Research entry with a figure beside the text (stacks on small screens) */
+.entry-with-figure { display: grid; grid-template-columns: minmax(0, 1fr); gap: 1rem; }
+@media (min-width: 768px) {
+  .entry-with-figure { grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr); align-items: start; }
+}
+.entry-figure figure, .entry-figure .quarto-figure { margin: 0; }
+.entry-figure figcaption { font-size: .8rem; margin-top: .35rem; }
+/* Line drawings are black on transparent; give them a white card so they stay legible in dark mode */
+.math-figure img, .entry-figure img {
+  background: #fff;
+  border: 1px solid var(--bs-border-color);
+  border-radius: 8px;
+  padding: .5rem;
+  width: 100%;
+  height: auto;
+}

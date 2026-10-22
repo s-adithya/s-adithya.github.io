@@ -62,6 +62,10 @@ resolutions of toric surfaces then supplies what is needed to apply the
 Lefschetz–Riemann–Roch theorem. In both the split and the unitary case, the resulting
 Lefschetz numbers are explicit and nonzero.
 
+::: {.math-figure}
+![Resolutions of the split ($G^F = \mathrm{GL}_3(\mathbb{F}_p)$) case on the left and the non-split ($G^F = \mathrm{U}_3(\mathbb{F}_p)$) case on the right.](../images/research/dl-gl3-resolutions.svg){#fig-resolutions fig-alt="Diagram of the resolutions of the compactified Deligne–Lusztig surfaces: on the left, the split case for GL3 over F_p, with the blown-up projective plane and its exceptional divisors; on the right, the non-split unitary case, with the ruled surface over the curve X-bar of s2."}
+:::
+
 ## Background: geometric Galois module theory
 
 Geometric Galois module theory studies how a finite group acting on an algebraic
