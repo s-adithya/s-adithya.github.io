@@ -144,7 +144,7 @@
     "href": "research.html#research-articles",
     "title": "Research",
     "section": "Research articles",
-    "text": "Research articles\n\nGalois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3\nUnder preparation · Summary · Slides · Poster\nThe paper computes Lefschetz numbers for the torus action on the coherent cohomology of compactified Deligne–Lusztig surfaces for \\mathrm{GL}_3(\\mathbb{F}_p) and \\mathrm{U}_3(\\mathbb{F}_p)."
+    "text": "Research articles\n\nGalois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3\nDraft, October 2026 · Draft (PDF) · Summary · Slides · Poster\nThe paper computes Lefschetz numbers for the torus action on the coherent cohomology of compactified Deligne–Lusztig surfaces for \\mathrm{GL}_3(\\mathbb{F}_p) and \\mathrm{U}_3(\\mathbb{F}_p)."
   },
   {
     "objectID": "research.html#masters-thesis",
@@ -221,7 +221,14 @@
     "href": "research/dl-gl3.html",
     "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
     "section": "",
-    "text": "Status: under preparation. An arXiv link will be added here when the preprint is posted.\nSlides (AMS, Oct 2026) Poster (Utah, Aug 2026) Talks on this work"
+    "text": "Draft, October 2026. Comments are welcome. An arXiv link will be added when the preprint is posted.\nDraft (PDF) Slides (AMS, Oct 2026) Poster (Utah, Aug 2026) Talks on this work"
+  },
+  {
+    "objectID": "research/dl-gl3.html#abstract",
+    "href": "research/dl-gl3.html#abstract",
+    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "section": "Abstract",
+    "text": "Abstract\nLet \\overline{Y(w)} \\to \\overline{X(w)} be the ramified Galois cover of compactified Deligne–Lusztig varieties. Our objects of study are the Lefschetz numbers for the action of the finite covering group \\mathbf{T}^{wF} on the coherent cohomology of the structure sheaf of \\overline{Y(w)}. The full collection of Lefschetz numbers determines the virtual representation of \\mathbf{T}^{wF} on the alternating sum of these cohomology groups. In the two cases of Deligne–Lusztig surfaces of type A_2 and {}^2A_2, we give explicit formulas for the Lefschetz numbers for a generator of the stabilizer of an irreducible component. It follows that the equivariant Euler characteristic of the compactification \\overline{Y(w)} is not virtually free as a virtual module over the covering group."
   },
   {
     "objectID": "research/dl-gl3.html#summary",
