@@ -20,7 +20,7 @@ Advisor: Georgios Pappas, Michigan State University
 ::: {.entry}
 ### [Galois module structure of Deligne–Lusztig varieties for $\mathbf{G} = \mathrm{GL}_3$](research/dl-gl3.qmd)
 
-[Under preparation · [Summary](research/dl-gl3.qmd) · [Slides](files/dl-gl3-slides.pdf) · [Poster](files/dl-gl3-poster.pdf)]{.entry-meta}
+[Draft, October 2026 · [Draft (PDF)](files/dl-gl3-draft.pdf) · [Summary](research/dl-gl3.qmd) · [Slides](files/dl-gl3-slides.pdf) · [Poster](files/dl-gl3-poster.pdf)]{.entry-meta}
 
 The paper computes Lefschetz numbers for the torus action on the coherent cohomology of
 compactified Deligne–Lusztig surfaces for $\mathrm{GL}_3(\mathbb{F}_p)$ and

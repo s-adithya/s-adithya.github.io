@@ -1,20 +1,32 @@
 ---
 title: "Galois module structure of Deligne–Lusztig varieties for $\\mathbf{G} = \\mathrm{GL}_3$"
-subtitle: "Preprint under preparation"
+subtitle: "Draft preprint, October 2026"
 pagetitle: "Galois module structure of Deligne–Lusztig varieties for GL3"
 author: "Adithya Sathyanarayana"
 toc: true
 ---
 
-::: {.callout-note appearance="simple"}
-**Status:** under preparation. An arXiv link will be added here when the preprint is posted.
-:::
+[Draft, October 2026. Comments are welcome. An arXiv link will be added when the preprint is posted.]{.entry-meta}
 
 <!-- When the preprint is on arXiv, add a button like:
 [arXiv](https://arxiv.org/abs/XXXX.XXXXX){.btn .btn-primary .btn-sm} -->
+[Draft (PDF)](../files/dl-gl3-draft.pdf){.btn .btn-primary .btn-sm}
 [Slides (AMS, Oct 2026)](../files/dl-gl3-slides.pdf){.btn .btn-outline-primary .btn-sm}
 [Poster (Utah, Aug 2026)](../files/dl-gl3-poster.pdf){.btn .btn-outline-primary .btn-sm}
 [Talks on this work](#talks){.btn .btn-outline-secondary .btn-sm}
+
+## Abstract
+
+Let $\overline{Y(w)} \to \overline{X(w)}$ be the ramified Galois cover of compactified
+Deligne–Lusztig varieties. Our objects of study are the Lefschetz numbers for the action
+of the finite covering group $\mathbf{T}^{wF}$ on the coherent cohomology of the structure
+sheaf of $\overline{Y(w)}$. The full collection of Lefschetz numbers determines the
+virtual representation of $\mathbf{T}^{wF}$ on the alternating sum of these cohomology
+groups. In the two cases of Deligne–Lusztig surfaces of type $A_2$ and ${}^2A_2$, we give
+explicit formulas for the Lefschetz numbers for a generator of the stabilizer of an
+irreducible component. It follows that the equivariant Euler characteristic of the
+compactification $\overline{Y(w)}$ is not virtually free as a virtual module over the
+covering group.
 
 ## Summary
 
