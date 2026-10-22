@@ -144,14 +144,14 @@
     "href": "research.html#research-articles",
     "title": "Research",
     "section": "Research articles",
-    "text": "Research articles\n\nGalois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3\nDraft, October 2026 · Draft (PDF) · Summary · Slides · Poster\nThe paper computes Lefschetz numbers for the torus action on the coherent cohomology of compactified Deligne–Lusztig surfaces for \\mathrm{GL}_3(\\mathbb{F}_p) and \\mathrm{U}_3(\\mathbb{F}_p)."
+    "text": "Research articles\n\nGalois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3\nDraft, October 2026 · Draft (PDF) · Summary · Slides · Poster\n\n\nThe paper computes Lefschetz numbers for the torus action on the coherent cohomology of compactified Deligne–Lusztig surfaces for \\mathrm{GL}_3(\\mathbb{F}_p) and \\mathrm{U}_3(\\mathbb{F}_p).\n\n\n\n\n\nResolutions in the split case \\mathrm{GL}_3(\\mathbb{F}_p) (left) and the non-split case \\mathrm{U}_3(\\mathbb{F}_p) (right)."
   },
   {
     "objectID": "research.html#masters-thesis",
     "href": "research.html#masters-thesis",
     "title": "Research",
     "section": "Master’s thesis",
-    "text": "Master’s thesis\n\nClass field theory\n2022 · IISER Tirupati · Advisor: D. S. Nagaraj · Thesis (PDF) · Defense slides"
+    "text": "Master’s thesis\n\nClass field theory (“Study of finite abelian extensions of \\mathbb{Q}”)\n2022 · IISER Tirupati · Advisor: D. S. Nagaraj · Thesis (PDF) · Defense slides"
   },
   {
     "objectID": "research.html#projects",
@@ -242,7 +242,7 @@
     "href": "research/dl-gl3.html#method",
     "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
     "section": "Method",
-    "text": "Method\nThe approach is to work étale-locally to resolve the singularities of \\overline{Y(w)}, and to construct a smooth model carrying an action of \\mathbf{T}^{wF} that extends the action on \\overline{Y(w)}. The local calculations lead to toric geometry. The Hirzebruch–Jung algorithm for minimal resolutions of toric surfaces then supplies what is needed to apply the Lefschetz–Riemann–Roch theorem. In both the split and the unitary case, the resulting Lefschetz numbers are explicit and nonzero."
+    "text": "Method\nThe approach is to work étale-locally to resolve the singularities of \\overline{Y(w)}, and to construct a smooth model carrying an action of \\mathbf{T}^{wF} that extends the action on \\overline{Y(w)}. The local calculations lead to toric geometry. The Hirzebruch–Jung algorithm for minimal resolutions of toric surfaces then supplies what is needed to apply the Lefschetz–Riemann–Roch theorem. In both the split and the unitary case, the resulting Lefschetz numbers are explicit and nonzero.\n\n\n\n\n\n\n\nFigure 1: Resolutions of the split (G^F = \\mathrm{GL}_3(\\mathbb{F}_p)) case on the left and the non-split (G^F = \\mathrm{U}_3(\\mathbb{F}_p)) case on the right."
   },
   {
     "objectID": "research/dl-gl3.html#background-geometric-galois-module-theory",
