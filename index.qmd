@@ -30,7 +30,7 @@ I am broadly interested in **arithmetic geometry** and **representation theory**
 specifically finite group actions on algebraic varieties and the Galois module
 structure of their cohomology groups. Recently I have been working on Deligne–Lusztig
 varieties; see my
-[preprint under preparation](research/dl-gl3.qmd) and the [research](research.qmd) page.
+[recent preprint](research/dl-gl3.qmd) on arXiv and the [research](research.qmd) page.
 
 Outside mathematics, I enjoy Carnatic and Hindustani classical music, playing the
 bansuri (Indian bamboo flute), badminton, literature, and social justice advocacy.
