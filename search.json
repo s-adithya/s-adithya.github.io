@@ -144,7 +144,7 @@
     "href": "research.html#research-articles",
     "title": "Research",
     "section": "Research articles",
-    "text": "Research articles\n\nGalois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3\nDraft, October 2026 · Draft (PDF) · Summary · Slides · Poster\n\n\nThe paper computes Lefschetz numbers for the torus action on the coherent cohomology of compactified Deligne–Lusztig surfaces for \\mathrm{GL}_3(\\mathbb{F}_p) and \\mathrm{U}_3(\\mathbb{F}_p).\n\n\n\n\n\nResolutions in the split case \\mathrm{GL}_3(\\mathbb{F}_p) (left) and the non-split case \\mathrm{U}_3(\\mathbb{F}_p) (right)."
+    "text": "Research articles\n\nGalois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3\nPreprint, October 2026 · arXiv:2610.40335 · PDF · Summary · Slides · Poster\n\n\nThe paper computes Lefschetz numbers for the torus action on the coherent cohomology of compactified Deligne–Lusztig surfaces for \\mathrm{GL}_3(\\mathbb{F}_p) and \\mathrm{U}_3(\\mathbb{F}_p).\n\n\n\n\n\nResolutions in the split case \\mathrm{GL}_3(\\mathbb{F}_p) (left) and the non-split case \\mathrm{U}_3(\\mathbb{F}_p) (right)."
   },
   {
     "objectID": "research.html#masters-thesis",
@@ -172,7 +172,7 @@
     "href": "index.html",
     "title": "Adithya Sathyanarayana",
     "section": "",
-    "text": "I am a fifth-year Ph.D. candidate in mathematics at Michigan State University, working with Prof. Georgios Pappas. I completed a B.S.–M.S. dual degree in mathematics at IISER Tirupati in 2022, where I worked with Prof. D. S. Nagaraj and wrote my master’s thesis on class field theory.\nI am broadly interested in arithmetic geometry and representation theory, specifically finite group actions on algebraic varieties and the Galois module structure of their cohomology groups. Recently I have been working on Deligne–Lusztig varieties; see my preprint under preparation and the research page.\nOutside mathematics, I enjoy Carnatic and Hindustani classical music, playing the bansuri (Indian bamboo flute), badminton, literature, and social justice advocacy."
+    "text": "I am a fifth-year Ph.D. candidate in mathematics at Michigan State University, working with Prof. Georgios Pappas. I completed a B.S.–M.S. dual degree in mathematics at IISER Tirupati in 2022, where I worked with Prof. D. S. Nagaraj and wrote my master’s thesis on class field theory.\nI am broadly interested in arithmetic geometry and representation theory, specifically finite group actions on algebraic varieties and the Galois module structure of their cohomology groups. Recently I have been working on Deligne–Lusztig varieties; see my recent preprint on arXiv and the research page.\nOutside mathematics, I enjoy Carnatic and Hindustani classical music, playing the bansuri (Indian bamboo flute), badminton, literature, and social justice advocacy."
   },
   {
     "objectID": "index.html#research-interests",
@@ -221,14 +221,14 @@
     "href": "research/dl-gl3.html",
     "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
     "section": "",
-    "text": "Draft, October 2026. Comments are welcome. An arXiv link will be added when the preprint is posted.\nDraft (PDF) Slides (AMS, Oct 2026) Poster (Utah, Aug 2026) Talks on this work"
+    "text": "arXiv:2610.40335 [math.AG], posted October 29, 2026 · 60 pages · Comments are welcome.\narXiv PDF Slides (AMS, Oct 2026) Poster (Utah, Aug 2026) Talks on this work"
   },
   {
     "objectID": "research/dl-gl3.html#abstract",
     "href": "research/dl-gl3.html#abstract",
     "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
     "section": "Abstract",
-    "text": "Abstract\nLet \\overline{Y(w)} \\to \\overline{X(w)} be the ramified Galois cover of compactified Deligne–Lusztig varieties. Our objects of study are the Lefschetz numbers for the action of the finite covering group \\mathbf{T}^{wF} on the coherent cohomology of the structure sheaf of \\overline{Y(w)}. The full collection of Lefschetz numbers determines the virtual representation of \\mathbf{T}^{wF} on the alternating sum of these cohomology groups. In the two cases of Deligne–Lusztig surfaces of type A_2 and {}^2A_2, we give explicit formulas for the Lefschetz numbers for a generator of the stabilizer of an irreducible component. It follows that the equivariant Euler characteristic of the compactification \\overline{Y(w)} is not virtually free as a virtual module over the covering group."
+    "text": "Abstract\nLet \\overline{\\mathbf{Y}}(w)\\to\\overline{\\mathbf{X}}(w) be the ramified Galois cover of compactified Deligne–Lusztig varieties. Our objects of study are the Lefschetz numbers for the action of the finite covering group T^{wF} on the coherent cohomology of the structure sheaf of \\overline{\\mathbf{Y}}(w). The Lefschetz numbers for all elements of T^{wF} determine the virtual T^{wF}-representation given by the alternating sum of these cohomology groups. In the two cases of Deligne–Lusztig surfaces of type A_2 and {}^{2}A_2, we give explicit formulas for the Lefschetz numbers for a generator of the stabilizer of an irreducible component. It follows that the equivariant Euler characteristic of the compactification \\overline{\\mathbf{Y}}(w) is not virtually free as a virtual module over the covering group."
   },
   {
     "objectID": "research/dl-gl3.html#summary",
@@ -257,6 +257,13 @@
     "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
     "section": "Talks",
     "text": "Talks\n\nGroup, Lie and Number Theory Seminar, University of Michigan · November 2026 (scheduled)\nPoster, AGNES, Brown University · November 21, 2026 (scheduled)\nGraduate Student Lecture Series (UBDoG), University at Buffalo · October 2026 (scheduled)\nAMS Special Session on Springer Fibers, Harmonic Analysis, and Arithmetic, George Washington University · October 4, 2026 · slides\nAutomorphic Forms and Representation Theory Seminar, Purdue University · September 2026\nPoster, The Australian Direction, University of Utah · August 11, 2026 · poster\nGTA Philly, Temple University · May 30, 2026"
+  },
+  {
+    "objectID": "research/dl-gl3.html#cite",
+    "href": "research/dl-gl3.html#cite",
+    "title": "Galois module structure of Deligne–Lusztig varieties for \\mathbf{G} = \\mathrm{GL}_3",
+    "section": "Cite",
+    "text": "Cite\n@misc{Sathyanarayana2026,\n  author        = {Sathyanarayana, Adithya},\n  title         = {Galois module structure of {D}eligne--{L}usztig varieties\n                   for $\\mathrm{GL}_3$},\n  year          = {2026},\n  eprint        = {2610.40335},\n  archivePrefix = {arXiv},\n  primaryClass  = {math.AG},\n  url           = {https://arxiv.org/abs/2610.40335}\n}"
   },
   {
     "objectID": "talks.html",

@@ -27,6 +27,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -392,6 +427,7 @@ window.Quarto = {
   <li><a href="#method" id="toc-method" class="nav-link" data-scroll-target="#method">Method</a></li>
   <li><a href="#background-geometric-galois-module-theory" id="toc-background-geometric-galois-module-theory" class="nav-link" data-scroll-target="#background-geometric-galois-module-theory">Background: geometric Galois module theory</a></li>
   <li><a href="#talks" id="toc-talks" class="nav-link" data-scroll-target="#talks">Talks</a></li>
+  <li><a href="#cite" id="toc-cite" class="nav-link" data-scroll-target="#cite">Cite</a></li>
   </ul>
 </nav>
     </div>
@@ -402,7 +438,7 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Galois module structure of Deligne–Lusztig varieties for <span class="math inline">\mathbf{G} = \mathrm{GL}_3</span></h1>
-<p class="subtitle lead">Draft preprint, October 2026</p>
+<p class="subtitle lead">Preprint, October 2026</p>
 </div>
 
 
@@ -425,13 +461,11 @@ window.Quarto = {
 </header>
 
 
-<p><span class="entry-meta">Draft, October 2026. Comments are welcome. An arXiv link will be added when the preprint is posted.</span></p>
-<!-- When the preprint is on arXiv, add a button like:
-[arXiv](https://arxiv.org/abs/XXXX.XXXXX){.btn .btn-primary .btn-sm} -->
-<p><a href="../files/dl-gl3-draft.pdf" class="btn btn-primary btn-sm">Draft (PDF)</a> <a href="../files/dl-gl3-slides.pdf" class="btn btn-outline-primary btn-sm">Slides (AMS, Oct 2026)</a> <a href="../files/dl-gl3-poster.pdf" class="btn btn-outline-primary btn-sm">Poster (Utah, Aug 2026)</a> <a href="#talks" class="btn btn-outline-secondary btn-sm">Talks on this work</a></p>
+<p><span class="entry-meta"><a href="https://arxiv.org/abs/2610.40335">arXiv:2610.40335</a> [math.AG], posted October 29, 2026 · 60 pages · Comments are welcome.</span></p>
+<p><a href="https://arxiv.org/abs/2610.40335" class="btn btn-primary btn-sm">arXiv</a> <a href="https://arxiv.org/pdf/2610.40335" class="btn btn-outline-primary btn-sm">PDF</a> <a href="../files/dl-gl3-slides.pdf" class="btn btn-outline-primary btn-sm">Slides (AMS, Oct 2026)</a> <a href="../files/dl-gl3-poster.pdf" class="btn btn-outline-primary btn-sm">Poster (Utah, Aug 2026)</a> <a href="#talks" class="btn btn-outline-secondary btn-sm">Talks on this work</a></p>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Let <span class="math inline">\overline{Y(w)} \to \overline{X(w)}</span> be the ramified Galois cover of compactified Deligne–Lusztig varieties. Our objects of study are the Lefschetz numbers for the action of the finite covering group <span class="math inline">\mathbf{T}^{wF}</span> on the coherent cohomology of the structure sheaf of <span class="math inline">\overline{Y(w)}</span>. The full collection of Lefschetz numbers determines the virtual representation of <span class="math inline">\mathbf{T}^{wF}</span> on the alternating sum of these cohomology groups. In the two cases of Deligne–Lusztig surfaces of type <span class="math inline">A_2</span> and <span class="math inline">{}^2A_2</span>, we give explicit formulas for the Lefschetz numbers for a generator of the stabilizer of an irreducible component. It follows that the equivariant Euler characteristic of the compactification <span class="math inline">\overline{Y(w)}</span> is not virtually free as a virtual module over the covering group.</p>
+<p>Let <span class="math inline">\overline{\mathbf{Y}}(w)\to\overline{\mathbf{X}}(w)</span> be the ramified Galois cover of compactified Deligne–Lusztig varieties. Our objects of study are the Lefschetz numbers for the action of the finite covering group <span class="math inline">T^{wF}</span> on the coherent cohomology of the structure sheaf of <span class="math inline">\overline{\mathbf{Y}}(w)</span>. The Lefschetz numbers for all elements of <span class="math inline">T^{wF}</span> determine the virtual <span class="math inline">T^{wF}</span>-representation given by the alternating sum of these cohomology groups. In the two cases of Deligne–Lusztig surfaces of type <span class="math inline">A_2</span> and <span class="math inline">{}^{2}A_2</span>, we give explicit formulas for the Lefschetz numbers for a generator of the stabilizer of an irreducible component. It follows that the equivariant Euler characteristic of the compactification <span class="math inline">\overline{\mathbf{Y}}(w)</span> is not virtually free as a virtual module over the covering group.</p>
 </section>
 <section id="summary" class="level2">
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
@@ -476,6 +510,19 @@ Figure&nbsp;1: Resolutions of the split (<span class="math inline">G^F = \mathrm
 <li>Poster, The Australian Direction, University of Utah · August 11, 2026 · <a href="../files/dl-gl3-poster.pdf">poster</a></li>
 <li>GTA Philly, Temple University · May 30, 2026</li>
 </ul>
+</section>
+<section id="cite" class="level2">
+<h2 class="anchored" data-anchor-id="cite">Cite</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@misc</span>{<span class="ot">Sathyanarayana2026</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span>        = {Sathyanarayana, Adithya},</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span>         = {Galois module structure of {D}eligne--{L}usztig varieties</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>                   for $<span class="ch">\mathrm</span>{GL}_3$},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span>          = {2026},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">eprint</span>        = {2610.40335},</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">archivePrefix</span> = {arXiv},</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">primaryClass</span>  = {math.AG},</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>  <span class="dt">url</span>           = {https://arxiv.org/abs/2610.40335}</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 
 
 </section>
