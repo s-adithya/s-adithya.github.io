@@ -83,6 +83,10 @@ and whether it reduced trips.
   regression-with-controls designs compare burden, exposure, and vehicle groups. A
   2023→2024 no-fee placebo and sensitivity checks limit a direct fee-caused
   interpretation.
+
+::: {.entry-figure}
+[![Fee burden $DS_z$ (%) by TLC taxi zone for Yellow taxis (left, scale capped at 5%) and Uber/Lyft (HVFHV, right, scale capped at 7%). The burden is highest in the Manhattan core.](images/research/congestion-ds-z-maps.webp){fig-alt="Two choropleth maps of New York City's TLC taxi zones. Left: Yellow taxi fee burden DS_z, shaded light yellow to dark red on a 0 to 5 percent scale. Right: Uber/Lyft (HVFHV) fee burden, shaded light green to dark blue on a 0 to 7 percent scale. In both maps the burden is highest in Manhattan below Central Park and decreases toward the outer boroughs and Staten Island."}](images/research/congestion-ds-z-maps.webp)
+:::
 :::
 
 ## Seminars
