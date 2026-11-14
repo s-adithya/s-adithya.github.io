@@ -6,8 +6,10 @@ title: "Talks"
 
 **Galois module structure of Deligne–Lusztig varieties for $\mathbf{G} = \mathrm{GL}_3$**
 
+- AMS Contributed Papers Session on Number Theory, III, Joint Mathematics Meetings,
+  Chicago · January 2027 *(scheduled)*
 - Group, Lie and Number Theory Seminar, University of Michigan · November 2026 *(scheduled)*
-- Graduate Student Lecture Series (UBDoG), University at Buffalo · October 2026 *(scheduled)*
+- Graduate Student Lecture Series (UBDoG), University at Buffalo · October 2026
 - AMS Special Session on Springer Fibers, Harmonic Analysis, and Arithmetic,
   George Washington University · October 4, 2026 *(twisted and untwisted cases)* · [slides](files/dl-gl3-slides.pdf)
 - Automorphic Forms and Representation Theory Seminar, Purdue University · September 2026
@@ -18,17 +20,25 @@ title: "Talks"
 
 All at the Student Algebra Seminar, Michigan State University, unless noted.
 
-- *Galois module theory* · Fall 2026
+- *Galois module theory* · September 2026
 - *Fundamental groups and covering spaces* ·
   [MSU Summer Topology Program](https://sites.google.com/msu.edu/msutopologyrtg/activities/summer-topology-program-2026) · May 11, 2026 ·
   [slides](files/fundamental-groups-covering-spaces-slides.pdf)
 - *Deligne–Lusztig varieties* · October 2025
 - *Non-split Cartan subgroups and the associated modular curves* · Learning Seminar: The Class
   Number One Problem d'après Serre · Spring 2025
-- *Reciprocity laws in number theory* · 2024
+- *Reciprocity laws in number theory* · Fall 2024
+
+## Teaching talks
+
+- *From Research to Practice: Problem-Posing Worksheets in Honors Linear Algebra* ·
+  Sparks! Teaching Lightning Talks by Graduate Instructors, Michigan State University ·
+  November 2026 · [course materials](teaching/mth317h-fs26.qmd)
 
 ## Posters
 
+- *Galois module structure of Deligne–Lusztig varieties for $\mathbf{G} = \mathrm{GL}_3$*,
+  Western Algebraic Geometry Symposium (WAGS), University of Utah · December 5, 2026 *(scheduled)*
 - *Galois module structure of Deligne–Lusztig varieties for $\mathbf{G} = \mathrm{GL}_3$*,
   Algebraic Geometry Northeastern Series (AGNES), Brown University · November 21, 2026 *(scheduled)*
 - *Galois module structure of Deligne–Lusztig varieties for
