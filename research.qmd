@@ -34,16 +34,21 @@ theory**. My current interests are:
 :::
 
 ::: {.entry-body}
-::: {.entry-with-figure}
-::: {.entry-text}
-The paper computes Lefschetz numbers for the torus action on the coherent cohomology of
-compactified Deligne–Lusztig surfaces for $\mathrm{GL}_3(\mathbb{F}_p)$ and
-$\mathrm{U}_3(\mathbb{F}_p)$.
-:::
-
+::: {.entry-wrap}
 ::: {.entry-figure}
 [![Resolutions in the split case $\mathrm{GL}_3(\mathbb{F}_p)$ (left) and the non-split case $\mathrm{U}_3(\mathbb{F}_p)$ (right).](images/research/dl-gl3-resolutions.svg){fig-alt="Diagram of the resolutions of the compactified Deligne–Lusztig surfaces: on the left, the split case for GL3 over F_p, with the blown-up projective plane and its exceptional divisors; on the right, the non-split unitary case, with the ruled surface over the curve X-bar of s2."}](research/dl-gl3.qmd#method)
 :::
+
+The paper computes Lefschetz numbers for the torus action on the coherent cohomology of
+compactified Deligne–Lusztig surfaces for $\mathrm{GL}_3(\mathbb{F}_p)$ and
+$\mathrm{U}_3(\mathbb{F}_p)$. These numbers determine the virtual representation of
+the covering group $T^{wF}$ on the alternating sum of the cohomology groups of the
+structure sheaf.
+
+The method resolves the singularities étale-locally, which leads to toric geometry; the
+Hirzebruch–Jung algorithm then supplies what is needed to apply the
+Lefschetz–Riemann–Roch theorem. One consequence is that the equivariant Euler
+characteristic of the compactification is not virtually free over the covering group.
 :::
 :::
 :::
