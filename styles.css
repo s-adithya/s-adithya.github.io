@@ -86,7 +86,7 @@ a.gold-link:hover { text-decoration: underline; }
 .entry p:last-child, .entry ul:last-child { margin-bottom: 0; }
 
 /* Row of outlined link buttons under the metadata line */
-.entry-links { display: flex; flex-wrap: wrap; gap: .45rem; margin: .1rem 0 .85rem; }
+.entry-links { display: flex; flex-wrap: wrap; gap: .6rem; margin: .35rem 0 1rem; }
 .entry-links p { display: contents; }
 .entry-links a {
   display: inline-flex;
@@ -145,10 +145,12 @@ a.gold-link:hover { text-decoration: underline; }
   color: var(--bs-body-color);
 }
 
-/* Research entry with a figure beside the text (stacks on small screens) */
-.entry-with-figure { display: grid; grid-template-columns: minmax(0, 1fr); gap: 1rem; }
+/* Research entry with a figure floated right and the text wrapping around it
+   (figure goes above the text on small screens) */
+.entry-wrap::after { content: ""; display: block; clear: both; }
+.entry-wrap > .entry-figure { margin-bottom: 1rem; }
 @media (min-width: 768px) {
-  .entry-with-figure { grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr); align-items: start; }
+  .entry-wrap > .entry-figure { float: right; width: 50%; margin: .3rem 0 .75rem 1.5rem; }
 }
 .entry-figure figure, .entry-figure .quarto-figure { margin: 0; }
 .entry-figure figcaption { font-size: .8rem; margin-top: .35rem; }
