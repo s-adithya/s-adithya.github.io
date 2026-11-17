@@ -16,6 +16,13 @@ title: "Talks"
 - Graduate Student Conference in Algebra, Geometry, and Topology (GTA Philly),
   Temple University · May 30, 2026
 
+## Teaching talks
+
+- *From Research to Practice: Problem-Posing Worksheets in Honors Linear Algebra* ·
+  Sparks! Teaching Lightning Talks by Graduate Instructors, Michigan State University ·
+  November 17, 2026 · [slides](files/sparks-problem-posing-slides.pdf) ·
+  [course materials](teaching/mth317h-fs26.qmd)
+
 ## Expository talks
 
 All at the Student Algebra Seminar, Michigan State University, unless noted.
@@ -28,12 +35,6 @@ All at the Student Algebra Seminar, Michigan State University, unless noted.
 - *Non-split Cartan subgroups and the associated modular curves* · Learning Seminar: The Class
   Number One Problem d'après Serre · Spring 2025
 - *Reciprocity laws in number theory* · Fall 2024
-
-## Teaching talks
-
-- *From Research to Practice: Problem-Posing Worksheets in Honors Linear Algebra* ·
-  Sparks! Teaching Lightning Talks by Graduate Instructors, Michigan State University ·
-  November 2026 · [course materials](teaching/mth317h-fs26.qmd)
 
 ## Posters
 
