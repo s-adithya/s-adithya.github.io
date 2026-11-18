@@ -19,6 +19,8 @@ about:
       href: files/cv.pdf
 toc: false
 page-layout: full
+date-modified: today
+date-format: "MMMM D, YYYY"
 ---
 
 I am a fifth-year Ph.D. candidate in mathematics at **Michigan State University**,
@@ -77,4 +79,8 @@ Advisor: [Prof. Georgios Pappas](https://sites.google.com/site/georgepappashomep
 **B.S.–M.S. Dual Degree in Mathematics**, IISER Tirupati, India · 2022\
 Advisor: [Prof. D. S. Nagaraj](https://www.imsc.res.in/~dsn/) · Master's thesis: *Class field theory*
 :::
+:::
+
+::: {.last-updated}
+Last updated {{< meta date-modified >}}
 :::
