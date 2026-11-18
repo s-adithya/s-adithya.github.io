@@ -176,3 +176,21 @@ a.gold-link:hover { text-decoration: underline; }
 .last-updated p { margin: 0; }
 /* The about template also prints the modified date under the title; show it only in the footer line */
 .about-entity .quarto-title-meta { display: none !important; }
+
+/* Kannada text */
+:lang(kn) { font-family: "Noto Serif Kannada", "Source Serif 4", serif; }
+span[lang="kn"] { font-size: 1.1em; }
+
+/* A poem in Kannada with its English translation beneath */
+.verse {
+  border-left: 3px solid #f2a900;
+  padding: .2rem 0 .2rem 1.1rem;
+  margin: 1rem 0 1.75rem;
+}
+.verse .line-block { margin-bottom: 0; }
+.verse > [lang="kn"] { font-size: 1.2rem; line-height: 1.9; }
+.verse-translation {
+  margin-top: .7rem;
+  font-style: italic;
+  color: var(--bs-secondary-color);
+}

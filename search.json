@@ -119,13 +119,6 @@
     "text": "Getting around East Lansing\n\nCATA: buses around campus, East Lansing, and Lansing\nMichigan Flyer: coach service between East Lansing, Ann Arbor, and Detroit Metro Airport (DTW)\nAmtrak: trains from East Lansing to Chicago\nCapital Region International Airport (LAN): the local airport in Lansing\nMSU Bikes: bike rentals, repairs, and parts on campus\nMSU campus map\nEast Lansing Public Library"
   },
   {
-    "objectID": "resources.html#carnatic-music",
-    "href": "resources.html#carnatic-music",
-    "title": "Resources",
-    "section": "Carnatic music",
-    "text": "Carnatic music\nSome performances by T. M. Krishna that I enjoy:\n\nRagam Nalinakanthi\nRagam Khamas\nBhaja Govindam, with Vikku Vinayakram"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -166,6 +159,27 @@
     "title": "Research",
     "section": "Seminars",
     "text": "Seminars\n\nCo-organizer, Student Algebra Seminar, Michigan State University (Fall 2024, Spring 2025)\nParticipant at MSU: Agentic AI Seminar (Fall 2026), Lean Seminar (Spring and Fall 2026), Étale Cohomology Learning Seminar (2025–26), Class Number One Problem Learning Seminar (Spring 2025), Class Field Theory Learning Seminar (Summer 2023)"
+  },
+  {
+    "objectID": "personal.html",
+    "href": "personal.html",
+    "title": "Personal",
+    "section": "",
+    "text": "I am originally from Bangalore, India. I grew up eating the amazing ಬೆಣ್ಣೆ ಮಸಾಲೆ ದೋಸೆ (benne masale dose, butter masala dosa) and drinking filter coffee."
+  },
+  {
+    "objectID": "personal.html#kannada-literature",
+    "href": "personal.html#kannada-literature",
+    "title": "Personal",
+    "section": "Kannada literature",
+    "text": "Kannada literature\nI love Kannada literature. My favorite writers, philosophers, and thinkers include Vasudhendra, D. V. Gundappa (DVG), Kuvempu, and Basavanna.\n\nFrom DVG’s Mankuthimmana Kagga\n\n\nಹುಲ್ಲಾಗು ಬೆಟ್ಟದಡಿ, ಮನೆಗೆ ಮಲ್ಲಿಗೆಯಾಗು\nಕಲ್ಲಾಗು ಕಷ್ಟಗಳ ಮಳೆಯ ವಿಧಿ ಸುರಿಯೆ\nಬೆಲ್ಲ ಸಕ್ಕರೆಯಾಗು ದೀನ ದುರ್ಬಲರಿಂಗೆ\nಎಲ್ಲರೊಳಗೊಂದಾಗು ಮಂಕುತಿಮ್ಮ\n\n\nBe grass at the foot of the hill, be jasmine to your home;\nbe a rock when fate pours down a rain of hardships;\nbe jaggery and sugar to the poor and the weak;\nbe one among everyone, Mankuthimma.\n\n\n\n\nA vachana of Basavanna\n\n\nಉಳ್ಳವರು ಶಿವಾಲಯವ ಮಾಡುವರು,\nನಾನೇನ ಮಾಡುವೆ, ಬಡವನಯ್ಯಾ.\nಎನ್ನ ಕಾಲೇ ಕಂಬ, ದೇಹವೇ ದೇಗುಲ,\nಶಿರ ಹೊನ್ನ ಕಳಸವಯ್ಯಾ.\nಕೂಡಲಸಂಗಮದೇವಾ, ಕೇಳಯ್ಯಾ,\nಸ್ಥಾವರಕ್ಕಳಿವುಂಟು, ಜಂಗಮಕ್ಕಳಿವಿಲ್ಲ.\n\n\nThe rich build temples for Shiva.\nWhat shall I, a poor man, do?\nMy legs are the pillars, my body the temple,\nmy head the golden spire.\nListen, O Kudalasangamadeva:\nwhat stands still will perish; what moves lives on."
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Short notes on mathematics, computation, and things I’m learning. Posts coming soon.\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -210,11 +224,18 @@
     "text": "Download PDF"
   },
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
+    "objectID": "music.html",
+    "href": "music.html",
+    "title": "Music",
     "section": "",
-    "text": "Short notes on mathematics, computation, and things I’m learning. Posts coming soon.\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Outside mathematics, I enjoy Carnatic and Hindustani classical music, and I play the bansuri (Indian bamboo flute)."
+  },
+  {
+    "objectID": "music.html#t.-m.-krishna",
+    "href": "music.html#t.-m.-krishna",
+    "title": "Music",
+    "section": "T. M. Krishna",
+    "text": "T. M. Krishna\nMy favorite artist is T. M. Krishna (Thodur Madabusi Krishna), the Carnatic vocalist. I love his music. Some performances I enjoy:\n\nRagam Nalinakanthi\nRagam Khamas\nBhaja Govindam, with Vikku Vinayakram"
   },
   {
     "objectID": "research/dl-gl3.html",
