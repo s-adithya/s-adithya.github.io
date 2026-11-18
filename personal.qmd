@@ -1,0 +1,53 @@
+---
+title: "Personal"
+toc: false
+---
+
+I am originally from Bangalore, India. I grew up eating the amazing
+[ಬೆಣ್ಣೆ ಮಸಾಲೆ ದೋಸೆ]{lang="kn"} (*benne masale dose*, butter masala dosa) and drinking
+filter coffee.
+
+## Kannada literature
+
+I love Kannada literature. My favorite writers, philosophers, and thinkers include
+Vasudhendra, D. V. Gundappa (DVG), Kuvempu, and Basavanna.
+
+### From DVG's *Mankuthimmana Kagga*
+
+::: {.verse}
+::: {lang="kn"}
+| ಹುಲ್ಲಾಗು ಬೆಟ್ಟದಡಿ, ಮನೆಗೆ ಮಲ್ಲಿಗೆಯಾಗು
+| ಕಲ್ಲಾಗು ಕಷ್ಟಗಳ ಮಳೆಯ ವಿಧಿ ಸುರಿಯೆ
+| ಬೆಲ್ಲ ಸಕ್ಕರೆಯಾಗು ದೀನ ದುರ್ಬಲರಿಂಗೆ
+| ಎಲ್ಲರೊಳಗೊಂದಾಗು ಮಂಕುತಿಮ್ಮ
+:::
+
+::: {.verse-translation}
+| Be grass at the foot of the hill, be jasmine to your home;
+| be a rock when fate pours down a rain of hardships;
+| be jaggery and sugar to the poor and the weak;
+| be one among everyone, Mankuthimma.
+:::
+:::
+
+### A vachana of Basavanna
+
+::: {.verse}
+::: {lang="kn"}
+| ಉಳ್ಳವರು ಶಿವಾಲಯವ ಮಾಡುವರು,
+| ನಾನೇನ ಮಾಡುವೆ, ಬಡವನಯ್ಯಾ.
+| ಎನ್ನ ಕಾಲೇ ಕಂಬ, ದೇಹವೇ ದೇಗುಲ,
+| ಶಿರ ಹೊನ್ನ ಕಳಸವಯ್ಯಾ.
+| ಕೂಡಲಸಂಗಮದೇವಾ, ಕೇಳಯ್ಯಾ,
+| ಸ್ಥಾವರಕ್ಕಳಿವುಂಟು, ಜಂಗಮಕ್ಕಳಿವಿಲ್ಲ.
+:::
+
+::: {.verse-translation}
+| The rich build temples for Shiva.
+| What shall I, a poor man, do?
+| My legs are the pillars, my body the temple,
+| my head the golden spire.
+| Listen, O Kudalasangamadeva:
+| what stands still will perish; what moves lives on.
+:::
+:::

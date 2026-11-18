@@ -26,8 +26,14 @@ website:
             text: Teaching Portfolio
       - href: notes.qmd
         text: Notes
-      - href: photography.qmd
-        text: Photography
+      - text: Beyond Math
+        menu:
+          - href: music.qmd
+            text: Music
+          - href: photography.qmd
+            text: Photography
+          - href: personal.qmd
+            text: Personal
       - href: resources.qmd
         text: Resources
       - href: cv.qmd
